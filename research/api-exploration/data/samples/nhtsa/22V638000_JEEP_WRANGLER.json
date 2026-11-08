@@ -1,0 +1,16 @@
+{
+  "Manufacturer": "Chrysler (FCA US, LLC)",
+  "NHTSACampaignNumber": "22V638000",
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "ReportReceivedDate": "25/08/2022",
+  "Component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+  "Summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Jeep Wrangler, RAM 1500 and 2021 Jeep Gladiator vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 111, \"Rear Visibility.\"",
+  "Consequence": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
+  "Remedy": "Dealers will update the radio software, free of charge.  Owner notification letters were mailed October 6, 2022.  Owners may contact FCA US, LLC customer service at 1-800-853-1403.  FCA, LLC's number for this recall is Z86.",
+  "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "ModelYear": "2021",
+  "Make": "JEEP",
+  "Model": "WRANGLER"
+}

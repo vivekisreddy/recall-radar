@@ -1,0 +1,4895 @@
+[
+ {
+  "RecallID": 9904,
+  "RecallNumber": "24177",
+  "RecallDate": "2024-03-28T00:00:00",
+  "Description": "This recall involves Berkley Jensen Citronella 72-inch Tiki Torches sold at BJ's Wholesale Club. The Tiki Torches are five inches wide and 72 inches high, or six inches wide and 72 inches high on a wrought iron stake. The torches were sold with copper-plated, nickel-plated, black, or gray torch tops, with a fiberglass wick.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/BJs-Wholesale-Club-Recalls-Berkley-Jensen-Citronella-72-inch-Tiki-Torches-Due-to-Burn-Hazard",
+  "Title": "BJ's Wholesale Club Recalls Berkley Jensen Citronella 72-inch Tiki Torches Due to Burn Hazard",
+  "ConsumerContact": "BJ's Wholesale Club at 800-257-2582 from 8 a.m. to 7 p.m. ET Monday through Friday, 8 a.m. to 6 p.m. ET Saturday and 12 p.m. to 6 p.m. ET Sunday, email at www.bjs.com/help/recall and click on the email icon, or visit www.bjs.com and click on \"Product Recalls\" at the bottom of the page.",
+  "LastPublishDate": "2024-03-28T00:00:00",
+  "Products": [
+   {
+    "Name": "Berkley Jensen Citronella 72-inch Tiki Torches",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 90,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Berkely-Copper-72.png",
+    "Caption": "Recalled Berkley Jensen Citronella 72-inch Copper-Plated Torch"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Berkly-copper-nickel.png",
+    "Caption": "Recalled Berkley Jensen Citronella 72-inch Copper & Nickel-Plated Torch"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/berkley-torch.png",
+    "Caption": "Recalled Berkley Jensen Citronella 72-inch Tiki Torch"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received nine reports of the tiki torch top breaking open and/or falling off, resulting in two reports of burn injuries."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Exclusively at BJ's Wholesale Club locations nationwide and online at www.bjs.com from January 2015 through November 2023 for about $13.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "BJ's Wholesale Club, of Marlborough, Massachusetts",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "India"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The tiki torch top can break open and/or fall off while lit, posing a burn hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled tiki torches and contact BJ's Wholesale Club for a full refund. Consumers should destroy and dispose of or return the tiki torches (with the fuel reservoir empty) to BJ's Wholesale Club to receive a refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9906,
+  "RecallNumber": "24742",
+  "RecallDate": "2024-03-28T00:00:00",
+  "Description": "This recall involves the Forias pack and play mattresses. The mattress is a portable memory foam play yard mattress and measures about 38 inches long and 26 inches wide. There are tags on the bottom of the mattress cover and a stitched tag with the brand name \"Forias\".",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Forias-Pack-and-Play-Mattresses-Recalled-Due-to-Suffocation-Hazard-for-Infants-Violations-of-the-Federal-Safety-Regulation-for-Crib-Mattresses-Sold-Exclusively-on-Amazon-com-by-Forias-Direct-Recall-Alert",
+  "Title": "Forias Pack and Play Mattresses Recalled Due to Suffocation Hazard for Infants; Violations of the Federal Safety Regulation for Crib Mattresses; Sold Exclusively on Amazon.com by Forias Direct (Recall Alert)",
+  "ConsumerContact": "Forias Direct by email customer.care@forias.com, or online at https://forias.com/pages/recall-information or https://forias.com and click \"Recall Information\" under \"HELP&SUPPORT\" at the bottom of the page for more information.",
+  "LastPublishDate": "2024-03-28T00:00:00",
+  "Products": [
+   {
+    "Name": "Forias Pack and Play Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,900"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Forias-mattress.png",
+    "Caption": "Recalled Forias Waterproof Pack and Play Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Forias-mattress-label.png",
+    "Caption": "Recalled Forias Waterproof Pack and Play Mattress Label"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Forias-warning-label.png",
+    "Caption": "Recalled Forias Waterproof Pack and Play Mattress Warning Label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Amazon.com from May 2023 through August 2023 for about $36.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Forias Direct, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled mattress violates multiple provisions of the Safety Standard for Crib Mattresses, including the thickness test, and is missing the required warnings and labels. The product poses a suffocation hazard to infants.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled pack and play mattresses and discard them by cutting them in half, then send a photo of destroyed mattress to customer.care@forias.com to receive a full refund. Amazon and Forias Direct are contacting all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9905,
+  "RecallNumber": "24741",
+  "RecallDate": "2024-03-28T00:00:00",
+  "Description": "This recall involves Polaris Model Year 2022-2023 Snowmobiles equipped with PATRIOT BOOST engines, including the Pro RMK Slash, RMK Khaos Slash, INDY VR1, and Switchback Assault. The recalled snowmobiles were sold in black and custom color combinations. \"POLARIS\" is stamped on the front side panel of the vehicles. The VIN and model number are located on the right side of the vehicle's frame.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Polaris-Recalls-Snowmobiles-Equipped-with-PATRIOT-BOOST-Engines-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls Snowmobiles Equipped with PATRIOT BOOST Engines Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris Industries at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety\" column at the bottom of the page or https://www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' owner connections team at Owner.Connections@polaris.com or via an online forum accessible at https://www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2024-03-28T00:00:00",
+  "Products": [
+   {
+    "Name": "Model Year 2022-2023 Snowmobiles equipped with PATRIOT BOOST Engines",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 7,000 (In addition, about 3,100 were sold in Canada) (Polaris MATRYX snowmobiles have been previously recalled in February 2022, August 2022, November 2022, May 2023, and August 2023)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2023460"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-Pro-RMK-Slash.jpg",
+    "Caption": "Recalled Polaris Model Year 2022 Patriot BOOST Pro RMK Slash Snowmobile"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-RMK-KHAOS-Slash.jpg",
+    "Caption": "Recalled Polaris Model Year 2022 Patriot BOOST RMK KHAOS Slash Snowmobile"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-Pro-RMK.jpg",
+    "Caption": "Recalled Polaris Model Year 2023 Patriot BOOST Pro RMK Slash Snowmobile"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-RMK-KHAOS_0.jpg",
+    "Caption": "Recalled Polaris Model Year 2023 Patriot BOOST RMK KHAOS Slash Snowmobile"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-INDY-VR1.jpg",
+    "Caption": "Recalled Polaris Model Year 2023 Patriot BOOST INDY VR1 Snowmobile"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-switchbackassault.jpg",
+    "Caption": "Recalled Polaris Model Year 2023 Patriot BOOST Switchback Assault Snowmobile"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Polaris-VIN.png",
+    "Caption": "Recalled Polaris Snowmobile VIN/Model Number Location"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 17 reports of fuel leaks. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Polaris Industries Inc., of Medina, Minnesota",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Polaris dealers nationwide from October 2021 through August 2023 for between $19,300 and $22,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The fuel line between the fuel rails can leak, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled snowmobiles and contact Polaris or an authorized Polaris dealer to schedule a free repair to replace the fuel line. Polaris has notified consumers to stop riding the vehicles and is notifying all dealers and contacting registered owners directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9903,
+  "RecallNumber": "24176",
+  "RecallDate": "2024-03-28T00:00:00",
+  "Description": "This recall involves Purefog High Density Natural Fog Juice Liquid, Long Lasting, Water Based for all Fog Machines 400-1500 Watts with model number B0BG4L3997 and Lot code #623-PFHD. The model number and lot code are located on the back label at the bottom. The fog juice liquid is used in machines that create a smoke or \"fog\" effect such as that seen during rock concerts on stage.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Pure-Brands-of-California-Recalls-PureFog-Juice-Liquid-Due-to-Risk-of-Mold-Exposure-Sold-Exclusively-on-Amazon-com",
+  "Title": "Pure Brands of California Recalls Purefog Juice Liquid Due to Risk of Mold Exposure; Sold Exclusively on Amazon.com",
+  "ConsumerContact": "Pure Brands of California toll-free at 888-622-6536 from 10 a.m. to 3 p.m. PT Monday through Friday, by email at support@purebrandsoc.com, or online at http://purebrandsoc.com//recall.html or www.purebrandsoc.com and click on \"Recall Information\" at the top of the page for more information.",
+  "LastPublishDate": "2024-03-28T00:00:00",
+  "Products": [
+   {
+    "Name": "Purefog High Density Natural Fog Juice Liquids",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 3,300"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/purefog-liquid.png",
+    "Caption": "Recalled Purefog High Density Natural Fog Juice Liquid (model and lot number location)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Pure Brands of California, of San Diego, California",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Exclusively online at Amazon.com from October 2023 through December 2023 for about $15.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Amazon.com LLC, of Seattle, Washington",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled fog liquid can expire sooner than the expiration date listed on the product. This can pose a risk of respiratory or other infections in individuals with compromised immune systems, damaged lungs or an allergy to mold.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled product, discard the unused product by pouring it down the drain, and contact the firm for a full refund. Consumers are being contacted directly by Amazon.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9902,
+  "RecallNumber": "24175",
+  "RecallDate": "2024-03-28T00:00:00",
+  "Description": "This recall involves 5mm Magnetic Beads HIGH POWER AAA Grade, which are small, spherical, loose and separable magnets with a strong magnetic flux. The recalled Magnetic Beads HIGH POWER 5mm AAA Grade were sold as a strand in a clear, plastic bag. Stateside Bead Supply is printed on a label on the clear plastic bag packaging. The magnetic beads are gun metal gray in color.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Stateside-Bead-Supply-Recalls-High-Powered-Magnetic-Beads-Due-to-Ingestion-Hazard-Violation-of-the-Federal-Safety-Regulation-for-Magnets",
+  "Title": "Stateside Bead Supply Recalls High-Powered Magnetic Beads Due to Ingestion Hazard; Violation of the Federal Safety Regulation for Magnets",
+  "ConsumerContact": "Email Stateside Bead Supply at info@statesidebeadsupply.com, call toll-free at 888-644-3448 from 9 a.m. to 4 p.m. PT Monday through Friday, or visit https://www.statesidebeadsupply.com/recall-notice.html or www.statesidebeadsupply.com and click on \"Recall Notice\" for more information.",
+  "LastPublishDate": "2024-03-28T00:00:00",
+  "Products": [
+   {
+    "Name": "Magnetic Beads HIGH POWER 5mm",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 450"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/high-power-beads.jpg",
+    "Caption": "Recalled Magnetic Beads HIGH POWER 5mm AAA Grade"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/high-power-beads-bag.gif",
+    "Caption": "Recalled Magnetic Beads HIGH POWER 5mm AAA Grade (Magnetic Beads are sold on a strand in a plastic bag)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported. CPSC estimates 2,400 magnet ingestions were treated in hospital emergency departments from 2017 through 2021. CPSC is aware of seven deaths since 2005 involving the ingestion of hazardous magnets, including two outside of the United States."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Boss Magnet, of Taiwan",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Online at www.statesidebeadsupply.com from November 2022 through June 2023 for between $7 and $9.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Stateside Bead Supply Inc., of Issaquah, Washington",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The magnetic beads violate the requirements of the mandatory federal magnet regulation because they contain one or more magnets that fit within CPSC's small parts cylinder, and the magnets are stronger than permitted. When high-powered magnets are swallowed, the ingested magnets can attract each other or another metal object and become lodged in the digestive system. This can result in perforations, twisting and/or blockage of the intestines, infection, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled magnetic beads immediately, take them away from children and contact Stateside Bead Supply to receive a pre-paid label to return the recalled products for a full refund. Stateside Bead Supply is notifying all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9900,
+  "RecallNumber": "24172",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves BRS and BULin portable liquid fuel bottles sold individually. The BRS bottle is orange with a black cap and was sold only in a 1000mL size.  The BULin bottle is red with a red cap and was sold only in a 1000mL size. Its text is in Chinese. \"BRS\" or \"BULin,\" and the bottle's volume, warnings, and/or directions appear in white lettering on the bottles.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/BRS-and-BULin-Liquid-Fuel-Bottles-Recalled-Due-to-Risk-of-Burn-and-Poisoning-Violation of the Childrens-Burn-Prevention-Safety-Act-Sold-Exclusively-on-Amazon-com-by-Tentock",
+  "Title": "BRS and BULin Liquid Fuel Bottles Recalled Due to Risk of Burn and Poisoning; Violation of the Children's Burn Prevention Safety Act; Sold Exclusively on Amazon.com by Tentock",
+  "ConsumerContact": "Email squarebird@aliyun.com or online at their Amazon seller profile https://www.amazon.com/s?me=A1778LF2VCKZ0J&marketplaceID=ATVPDKIKX0DER.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "BRS and BULin Liquid Fuel Bottles",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 290"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BRS-front_0.png",
+    "Caption": "Recalled BRS liquid fuel bottle \u2013 front"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BRS-back_0.png",
+    "Caption": "Recalled BRS liquid fuel bottle \u2013 back"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BUL-front.png",
+    "Caption": "Recalled BULin liquid fuel bottle \u2013front"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BUL-back.png",
+    "Caption": "Recalled BULin liquid fuel bottle \u2013 back"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Amazon.com from January 2023 through December 2023 for between $10 and $13.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Tentock, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The portable fuel containers violate the child-resistant requirements for closures under the Children's Gasoline Burn Prevention Act (CGBPA). The closure for the products is not child resistant, posing a risk of burns and poisoning to children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled fuel bottles, place them out of reach to children, and contact Tentock for instructions on how to dispose of the product to receive a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9897,
+  "RecallNumber": "24168",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves Crown Boiler Aruba IV (AWR Series) gas-fired hot water boilers powered by natural gas and LP (propane) gas. This recall only involves boilers configured for use at altitudes above 2,000 feet. The model name Aruba IV is not found on the label. The boiler is red and gray and 39.5 inches high. A \"Crown\" logo appears on the upper front-center of the unit. The model number is shown on the boiler's rating plate, located on the top of the right side of the boiler where shown. Crown is printed on the side, and the model number for Aruba IV is located on a large white label on the red metal side of the boiler. The following model numbers are included in this recall regardless of date manufactured: AWR070BLST3P8U AWR105BLST3P8U AWR140BLST3P8U AWR175BLT3HU1 AWR070BLT3HU1 AWR105BLT3HU1 AWR140BLT3HU1 AWR175BNST3P8U AWR070BNST3P8U AWR105BNST3P8U AWR140BNST3P8U AWR175BNT3HU1 AWR070BNT3HU1 AWR105BNT3HU1 AWR140BNT3HU1 AWR175ELST2P8U AWR070ELST2P8U AWR105ELST2P8U AWR140ELST2P8U AWR175ENST2P8U AWR070ENST2P8U AWR105ENST2P8U AWR140ENST2P8U AWR210BNST3P8U AWR245BLST3P8U AWR280BNST3P8U AWR210BNT3HU1 AWR245BLT3HU1 AWR280BNT3HU1 AWR210ELST2P8U AWR245BNST3P8U AWR280ELST2P8U AWR210ENST2P8",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Crown-Boiler-Recalls-Home-Heating-Boilers-Due-to-Carbon-Monoxide-Poisoning-Hazard",
+  "Title": "Crown Boiler Recalls Home Heating Boilers Due to Carbon Monoxide Poisoning Hazard",
+  "ConsumerContact": "Crown Boiler Company toll-free at 888-583-5624 from 8 a.m. to 5 p.m. ET Monday through Friday, email at AKP@velocityboilerworks.com, or online at www.velocityboilerworks.com/news/2024/01/product-modification-required-crown-aruba-iv-models-above-2000-ft-recall/ or www.velocityboilerworks.com and click on \"Product Recall Alerts Important Information\" on the home page for more information.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Crown Aruba IV (AWR Series) gas-fired hot water boilers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,100"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/crown-boiler.png",
+    "Caption": "Recalled Crown Boiler gas-fired AWR Series"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/boiler-label.png",
+    "Caption": "Label location on recalled Crown Boiler gas-fired AWR Series"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/boiler-model-no.png",
+    "Caption": "Model number location on rating plate of recalled Crown Boiler"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Crown Boiler Company LLC, of Philadelphia, Pennsylvania",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Heating and plumbing contractors and wholesale distributors nationwide from July 2012 through December 2023 for between $2,000 and $4,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The blocked vent switch (BVS) can fail to shut down the burners if the boilers are installed at altitudes above 2,000 feet and the vent system becomes blocked. In such an event, the boiler can emit excessive amounts of carbon monoxide into the building, posing a carbon monoxide (CO) poisoning hazard to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers with the recalled boilers should immediately contact Crown Boiler for a free repair that includes a free replacement main burner gas orifice, and a free replacement blocked vent switch if needed. Consumers who continue using the recalled boilers while awaiting repair should have working carbon monoxide alarms installed outside of sleeping areas and on each floor of the home. Consumers can review Protect Your Family from Carbon Monoxide Poisoning | CPSC.gov for more information about preventing carbon monoxide poisoning."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9895,
+  "RecallNumber": "24166",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves two models of Culture Kings' Sneaker Basel Double Magnetic Levitation Displays used to showcase floating pairs of sneakers at home by consumers. Model CXF-22, Magnetic Levitation Sneaker Display 2, has a black or black/white color combination rectangular frame. Model CXF-24B, Stackable Magnetic Levitation Sneaker Display, has an uppercase I-shaped black frame. The displays have LED lighting and were sold with or without a remote control. Both models came with two magnets, counterweight beads and a power adaptor. The Culture Kings logo appears on the side of the display. Only displays that levitate two sneakers are included in this recall.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Culture-Kings-Recalls-Sneaker-Basel-Magnetic-Levitation-Displays-Due-to-Laceration-and-Ingestion-Hazards",
+  "Title": "Culture Kings Recalls Sneaker Basel Magnetic Levitation Displays Due to Laceration and Ingestion Hazards",
+  "ConsumerContact": "Culture Kings toll-free at 888-520-1885 from 12 p.m. to 11 p.m. PT Sunday through Tuesday, 12 p.m. to 2 a.m. PT Wednesday through Thursday and 2 p.m. to 10 p.m. PT on Fridays; email at sneakerdisplays@realtimeresults.net; or online at www.recallrtr.com/sneakerdisplays or at www.culturekings.com and click on \"Recall\" for more information.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Sneaker Basel Double Magnetic Levitation Displays",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 4,300"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-display-black.jpg",
+    "Caption": "Recalled Culture King's Magnetic Levitation Sneaker Display 2 - black"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-display-black-white.jpg",
+    "Caption": "Recalled Culture King's Magnetic Levitation Sneaker Display 2 - black and white"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-display-packaging.jpg",
+    "Caption": "Recalled Culture King's Magnetic Levitation Sneaker Display 2 - packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-display-stackable.jpg",
+    "Caption": "Recalled Culture King's Stackable Magnetic Levitation Sneaker Display"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-display-stackable-packaging.jpg",
+    "Caption": "Recalled Culture King's Stackable Magnetic Levitation Sneaker Display \u2013 packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-magnets.JPG",
+    "Caption": "Magnets included in the recalled Culture King's Sneaker Basel Magnetic Levitation Displays"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/basel-counterweight-beads.jpg",
+    "Caption": "Counterweight beads included in the recalled Culture King's Sneaker Basel Magnetic Levitation Displays"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received one report of an incident in the U.S. where the magnets collided and shattered during use, without injury. The firm has received seven reports of incidents in Australia where the magnets collided and shattered during use, including four minor injuries."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Online at culturekings.com from July 2020 through January 2023 for between $68 and $260.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Culture Kings USA Inc., of San Francisco, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The sneaker display's magnets can forcefully attract, break, splinter and emit sparks, posing a laceration hazard. In addition, when two or more high-powered magnets are swallowed, either accidentally or intentionally, the ingested magnets can attract each other and become lodged in the digestive system. This can lead to perforations, twisting and/or blockage of the intestines that can lead to infection and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled displays, store them away and contact Culture Kings for a full refund. Consumers should keep the magnets at least six inches apart during handling. If the magnets come together, consumers should not attempt to separate them. Consumers will be asked to request free \"Recalled Product\" stickers for the magnets and to place a sticker on the metal side of each magnet, destroy the display by cutting the power cord, and upload a photo of the stickered magnets and destroyed display to https://www.recallrtr.com/sneakerdisplays. The magnets and sneaker display should be discarded after the refund is received."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Dispose"
+   },
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9896,
+  "RecallNumber": "24167",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves the plastic Donald Duck and Daisy Duck figures sold in the Fisher-Price Little People Mickey and Friends figure pack, models HPJ88 and HTW75. The Donald Duck and Daisy Duck figures are about 3 inches tall, and both have outstretched arms. The Donald Duck figure has a blue shirt with thin yellow stripes, a blue and black hat, and a red bow tie. The Daisy Duck figure has a light purple shirt, turquoise necklace and bracelet, pink shoes, and a pink hair bow. The model number is located on the bottom of the Goofy figure.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Fisher-Price-Recalls-Little-People-Mickey-and-Friends-Figures-Due-to-Choking-Hazard",
+  "Title": "Fisher-Price Recalls Little People Mickey and Friends Figures Due to Choking Hazard",
+  "ConsumerContact": "Fisher-Price toll-free at 855-853-6224 between 9 a.m. and 6 p.m. ET Monday through Friday, or online at www.service.mattel.com/us/recall.aspx or at www.service.mattel.com and click on \"Recalls & Safety Alerts\" for more information, or email at https://consumersupport.mattel.com/mattelsupport/s/create-case.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Fisher-Price Little People Mickey and Friends Figures",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 204,000 (In addition, about 11,000 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://rsams.prod.cloud.openplus.ca/en/alert-recall/fisher-price-little-people-mickey-friends-figure-packs-recalled-due-choking-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/donald.png",
+    "Caption": "Recalled Donald Duck Figure"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/daisy.png",
+    "Caption": "Recalled Daisy Duck Figure"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/donald-daisy-figures.png",
+    "Caption": "Recalled Donald Duck and Daisy Duck figures were sold in the Fisher-Price Little People Mickey and Friends figure pack: Model HPJ88/ Model HTW75"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Fisher-Price has received three reports of the heads detaching from the Donald Duck or Daisy Duck figures, including one report of a detached head in the mouth of a young child. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Walmart, Kohls, Meijer, HEB and Kroger stores nationwide, and online at Amazon.com and Walmart.com and other various eCommerce sites from May 2023 through February 2024 for about $20.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Fisher-Price Inc., of East Aurora, New York",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The heads of the Donald Duck and Daisy Duck figures can detach, posing a choking hazard to young children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the Donald Duck and Daisy Duck figures, take them away from children, and contact Fisher-Price to receive a pre-paid return label to return the two figures and receive a $10 refund. This recall only involves the Donald Duck and Daisy Duck figures that are part of the figure pack."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9899,
+  "RecallNumber": "24171",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves four gift sets containing a ceramic mug with metallic coating that bears Starbucks branding. They were sold in 11 oz. and 16 oz. sizes as part of one of the following gift sets sold during the 2023 holiday season: Starbucks Holiday Gift Set with 2 Mugs, Starbucks Classic Hot Cocoa and Mug, Starbucks Peppermint and Classic Hot Cocoas and Mug, and Starbucks Holiday Blend Coffee and Mug.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Nestle-USA-Recalls-Metallic-Mugs-Sold-with-Starbucks-Branded-Gift-Sets-Due-to-Burn-and-Laceration-Hazards",
+  "Title": "Nestl\u00e9 USA Recalls Metallic Mugs Sold with Starbucks-Branded Gift Sets Due to Burn and Laceration Hazards",
+  "ConsumerContact": "Nestl\u00e9 USA at 800-681-1676 from 9 a.m. to 6 p.m. ET Monday through Friday, or online at https://www.nestleusa.com/media/pressreleases/metallicmugrecall or https://www.athome.starbucks.com and click on \"Metallic Mug Recall\" at the bottom of the page for more information.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Metallic Mugs included in 2023 Holiday Starbucks-branded Gift Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 440,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/cups.png",
+    "Caption": "Recalled Starbucks Holiday Gift Set with 2 Mugs (As Sold)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/close-up.png",
+    "Caption": "Recalled Starbucks Holiday Gift Set with 2 Mugs (Close-up of Mug)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/hotcocoa.png",
+    "Caption": "Recalled Starbucks Classic Hot Cocoa and Mug"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/peppermint.png",
+    "Caption": "Recalled Starbucks Peppermint and Classic Hot Cocoas and Mug"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/holiday-blend.png",
+    "Caption": "Recalled Starbucks Holiday Blend Coffee and Mug"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/giftsetid.png",
+    "Caption": "Location of the gift set identifier code on the bottom of the mug"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "There have been 12 incidents of the mugs overheating or breaking resulting in 10 injuries, including nine severe burns/blisters on fingers or hands, and one cut on a finger. One incident required medical attention."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Online and in-store at Target and Walmart, and through Nexcom (military retail outlets) nationwide from November 2023 through January 2024 for about $10, $13 or $20 depending on gift set.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Nestl\u00e9 USA Inc., of Arlington, Virginia",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "If microwaved or filled with extremely hot liquid, the mugs can overheat or break, posing burn and laceration hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled mugs, and either return them to the place of purchase or contact Nestl\u00e9 USA for a full refund. Consumers can receive a cash or gift card refund when they return the mug to the store where purchased, or a check from Nestl\u00e9 USA when they visit https://www.nestleusa.com/info/contact-us-landing, scroll down to \"Leave Us a Message\", click on \"Complaint\", select \"Recall\" from the drop-down menu, attach a photo of the mug or the gift set identifier code, complete the form and hit send. Proof of purchase (receipt) is not required to receive a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9901,
+  "RecallNumber": "24174",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves eight Ravin R500 models of crossbows. The R500 series crossbows are about 8 inches wide, axle-to-axle un-cocked, and about 28 inches from end to end. All models have a split limb arrangement with cams mounted between the upper and lower limbs. R500 series crossbows were sold in slate gray and camo colors. All the crossbows include a scope, quiver, cocking handle, quiver bracket and 6 arrows. The Ravin logo and model names are on a decal located on both upper limbs. The serial number is on the left side of the rail above the trigger. Product Name Model Ravin R500 R050 Ravin R500 Sniper R051 Ravin R500E R052 Ravin R500E Sniper R053 Ravin R500 XK7 R054 Ravin R500 Sniper XK7 R055 Ravin R500E XK7 R056 Ravin R500E Sniper XK7 R057.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Ravin-Crossbows-Recalls-Ravin-R500-Series-Crossbows-Due-to-Injury-Hazard",
+  "Title": "Ravin Crossbows Recalls Ravin R500 Series Crossbows Due to Injury Hazard",
+  "ConsumerContact": "Ravin Crossbows toll-free at 888-298-6335 from 9 a.m. to 5 p.m. CT, email at R500recall@ravincrossbows.com, or online at https://www.ravincrossbows.com/r500recall or www.ravincrossbows.com and click on \"Safety & Instruction\" then \"Recall Notices\" for more information.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Ravin R500 Model Crossbows",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 13,300 (In addition, about 425 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RavinR500.png",
+    "Caption": "Recalled Ravin R500 Model Crossbow"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received one report of the crossbow unexpectedly discharging. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Ravin Crossbows LLC, of Superior, Wisconsin",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Ravin, Bass Pro Shops, Cabela's, Dick's Sporting Goods stores and other stores nationwide, and online at www.ravincrossbows.com from September 2021 through October 2023 for between $2,550 and $4,025.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "If nearly but not fully cocked, the crossbow can discharge unexpectedly while consumers cock or uncock the crossbow, posing an injury hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled Ravin R500 series crossbows and contact Ravin Crossbows for a free repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9898,
+  "RecallNumber": "24169",
+  "RecallDate": "2024-03-21T00:00:00",
+  "Description": "This recall involves all flavors of Happiness USA liquid rolling candy. The candy comes in blue raspberry, strawberry and green apple flavors, consisting of about one fluid ounce of liquid candy. Each roller ball candy contains a flavored liquid candy with a rolling ball applicator to apply onto the tongue. The bottle is resealable with a twist on plastic cap. \"Funtime Roller Ball Candy\" is printed on the front. \"Happiness USA\" branding and warning labels are printed on the back.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Twenty-Four-Six-Foods-Recalls-Happiness-USA-Roller-Ball-Candy-Due-to-Choking-Hazards",
+  "Title": "Twenty Four Six Foods Recalls Happiness USA Roller Ball Candy Due to Choking Hazards",
+  "ConsumerContact": "Twenty Four Six Foods toll-free at 833-436-1200 from 10 a.m. to 4 p.m. ET Monday through Thursday or email at recall246foods@gmail.com.",
+  "LastPublishDate": "2024-03-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Happiness USA Liquid Rolling Candy",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 290,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/roller-ball-front.png",
+    "Caption": "Recalled Happiness USA Roller Ball Candy (front)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/roller-ball-back.png",
+    "Caption": "Recalled Happiness USA Roller Ball Candy (back)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/roller-ball-flavors.png",
+    "Caption": "Recalled Happiness USA Roller Ball Candy (all flavors)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Twenty Four Six Foods has received one report of the rolling ball dislodging, resulting in a seven-year-old child choking in New Jersey in July 2023. The child underwent emergency surgery to successfully remove the rolling ball from his throat."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Kosher market stores nationwide from January 2018 through July 2023 for about $2.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Twenty Four Six Foods LLC, of Brooklyn, New York",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The candy's rolling ball can dislodge from the product into a child's mouth, posing a choking hazard and risk of death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the candy, take it from children, and contact Twenty Four Six Foods for a full refund. Twenty Four Six Foods is contacting known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9892,
+  "RecallNumber": "24159",
+  "RecallDate": "2024-03-14T00:00:00",
+  "Description": "This recall involves Insignia Air Fryers and Insignia Air Fryer Ovens, model numbers NS-AF34D2, NS-AF5DSS2, NS-AF5MSS2, NS-AF8DBD2, NS-AF10DBK2, and NS-AF10DSS2. The brand name INSIGNIA is on the top or front of each unit. A product rating label on the underside of each unit identifies the brand INSIGNIA and the model number. The air fryers and air fryer ovens have cooking chamber capacities ranging from about 3.4 to 10 quarts, and plastic or plastic and stainless-steel bodies in black and stainless-steel finishes.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Best-Buy-Recalls-Insignia-Air Fryers-and-Air-Fryer-Ovens-Due-to-Fire-Burn-and-Laceration-Hazards",
+  "Title": "Best Buy Recalls Insignia\u00ae Air Fryers and Air Fryer Ovens Due to Fire, Burn and Laceration Hazards",
+  "ConsumerContact": "Best Buy at 800-566-7498 from 7 a.m. to 6 p.m. CT Monday through Friday or register online at https://www.recallrtr.com/airfryer to receive a refund. Consumers can also go online at http://www.bestbuy.com/product/recalls or www.bestbuy.com and click on \"Product Recalls\" located under the \"Order and Purchase\" column located at the bottom of the page for more information.",
+  "LastPublishDate": "2024-03-14T00:00:00",
+  "Products": [
+   {
+    "Name": "Air Fryers and Air Fryer Ovens",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 187,400 (In addition, about 99,900 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/insigniatm-digital-air-fryers-insigniatm-analog-air-fryers-and-insigniatm-digital-air"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-3-4-qt.png",
+    "Caption": "Recalled Insignia 3.4-qt. Digital Air Fryer model NS-AF34D2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-5-qt.jpg",
+    "Caption": "Recalled Insignia 5-qt. Digital Air Fryer model NS-AF5DSS2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-5qt.jpg",
+    "Caption": "Recalled Insignia 5-qt. Digital Air Fryer model NS-AF5MSS2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-8-qt.png",
+    "Caption": "Recalled Insignia 8-qt. Air Fryer Dual Basket model NS-AF8DBD2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-10-qt.jpg",
+    "Caption": "Recalled Insignia 10-qt. Digital Air Fryer Oven model NS-AF10DBK2 (black)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-10qt.jpg",
+    "Caption": "Recalled Insignia 10-qt. Digital Air Fryer Oven model NS-AF10DSS2 (stainless steel)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Insignia-label_0.png",
+    "Caption": "Product rating label on the underside of the unit showing INSIGNIA brand and the model number"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 24 reports of overheating/melting or glass shattering, including six reports of air fryers catching on fire. No injuries or property damage have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Best Buy stores nationwide and online at www.bestbuy.com, www.eBay.com, and third-party sellers from November 2021 through November 2023 for between $32 and $180.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Best Buy Purchasing LLC, of Richfield, Minnesota",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The air fryers can overheat, causing the handles to melt or break, posing fire and burn hazards. Additionally, the air fryer ovens can overheat and the glass on the door can shatter, posing fire, burn and laceration hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled Insignia air fryers and air fryer ovens and visit https://www.recallrtr.com/airfryer for instructions on how to submit photos of the recalled unit(s), the model number, purchase receipt, and on the destruction of the unit. Consumers can receive a refund in the form of a refund check or a Best Buy store credit. A consumer will receive the amount on the purchase receipt, or they will receive the average sales price for the model if no receipt is provided. Consumers should not return the recalled air fryers or air fryer ovens to Best Buy stores. Best Buy has contacted all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9891,
+  "RecallNumber": "24158",
+  "RecallDate": "2024-03-14T00:00:00",
+  "Description": "This recall involves all Honeywell System Sounder L-series Low Frequency Sounders, Sounder Strobes, and Compact Sounders. The sounder and strobes are square, with white and red plastic housings, listed for wall mounting and measure about 5.6 by 4.7 inches for the sounders and strobes and about 5.3 by 3.5 inches for the compact sounder. The model number, date codes and \"System Sensor\" are printed on the product label and carton. Date codes 3034 and 3035 and the following models are included in this recall: HWL-LF, HWL-LF-BP10, HRL-LF, HRL-LF-BP10, HGWL-LF-BP10, P2WL-LF.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Honeywell-Recalls-System-Sensor-L-Series-Low-Frequency-Fire-Alarm-Sounders-and-Strobes-Due-to-Risk-of-Failure-to-Alert-Consumers-to-a-Fire",
+  "Title": "Honeywell Recalls System Sensor L-Series Low Frequency Fire Alarm Sounders and Strobes Due to Risk of Failure to Alert Consumers to a Fire",
+  "ConsumerContact": "System Sensor at 800-736-7672 from 7 a.m. to 4:30 p.m. CT Monday through Friday, email at LFSounder.recall@systemsensor.com, or online at https://buildings.honeywell.com/us/en/brands/our-brands/system-sensor/resources/recall or www.SystemSensor.com and click on \"Recall\" at the top of the page for more information.",
+  "LastPublishDate": "2024-03-14T00:00:00",
+  "Products": [
+   {
+    "Name": "System Sensor L-series low frequency Sounders and Strobes for residential apartments and commercial buildings",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 29,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/L-series-1_0.png",
+    "Caption": "Recalled System Sensor L-Series Low Frequency Fire Alarm Sounders Model #s HWL-LF and HWL-LF-BP10 (White) showing product label and carton label"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/L-series-2_0.png",
+    "Caption": "Recalled System Sensor L-Series Low Frequency Fire Alarm Sounders Model #s HWL-LF and HWL-LF-BP10 (Red) showing product label and carton label"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/L-series-3_0.png",
+    "Caption": "Recalled System Sensor L-Series Low Frequency Fire Alarm Sounder Strobe Model P2WL-LF (White) showing product label and carton label"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/L-series-4_0.png",
+    "Caption": "Recalled System Sensor L-Series Low Frequency Fire Alarm Sounder Model HGWL-LF-BP10 (White) showing product label and carton label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Honeywell has received two reports of low or no sound output during installation. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Honeywell International Inc., of Charlotte, North Carolina",
+    "CompanyID": ""
+   },
+   {
+    "Name": "System Sensor, of St. Charles, Illinois",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Honeywell authorized System Sensor installers and fire equipment distributors nationwide from March 2023 through April 2023 for about $107.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Mexico"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The sounders and strobes can malfunction and cause the fire alarm system to fail to alert consumers of a fire.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should contact the firm to arrange for a free inspection and free repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9893,
+  "RecallNumber": "24160",
+  "RecallDate": "2024-03-14T00:00:00",
+  "Description": "This recall involves Tracker Off Road OX EV vehicles with serial numbers between 8029703 to 8031430. The serial number is located under the charger receptacle.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Textron-Specialized-Vehicles-Recalls-Tracker-Off-Road-OX-EV-Light-Utility-Vehicles-Due-to-Fire-Hazard",
+  "Title": "Textron Specialized Vehicles Recalls Tracker Off Road OX EV Light Utility Vehicles Due to Fire Hazard",
+  "ConsumerContact": "Textron Specialized Vehicles toll-free at 888-438-3946 from 8 a.m. and 5 p.m. ET Monday through Friday, email at msizemore@textron.com or online at https://www.trackeroffroad.com and click on \"Recalls\" or https://www.trackeroffroad.com/recalls.html for more information.",
+  "LastPublishDate": "2024-03-14T00:00:00",
+  "Products": [
+   {
+    "Name": "Tracker Off Road OX EV Vehicles",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/OXEV.png",
+    "Caption": "Recalled Tracker Off Road OX EV"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Textron Specialized Vehicles, of Augusta, Georgia",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Bass Pro Shops, Cabela's stores, and Tracker Marine and off-road dealerships nationwide from January 2023 through December 2023 for between $12,000 and $13,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Water can get into the lithium-ion battery pack of the Tracker OX EV vehicles, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the Tracker OX EV and contact their authorized Tracker Off Road dealer or service center to schedule a free inspection and repair of the battery module. Textron advises that until the Tracker Off Road dealer or service center has completed this service, do not charge the recalled vehicle and park the recalled vehicle outdoors at least 15 feet away from any buildings or other vehicles. Textron Specialized Vehicles is contacting all known purchasers."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9894,
+  "RecallNumber": "24161",
+  "RecallDate": "2024-03-14T00:00:00",
+  "Description": "This recall involves gas-fired residential boilers with brand names U.S. Boiler, New Yorker Boiler, Advantage, FORCE and Archer. The following boiler models that are currently installed at altitudes greater than 5,400 ft. above sea level are part of this recall. The U.S. boiler ES2 and Series 3 models are blue with a black top front and black vents on the front. The logo is located on the black top front of the boiler. The X-2 model has a solid teal color. The logo is located in the front middle of the boiler. The Lancer model is gray with a blue top. The logo is located in the front middle of the boiler. The Force G-3 model is solid gray. The logo is located in the front middle of the boiler. The CGE and CGF models are solid green The logo is located in the front middle of the boiler. The model and serial numbers are located on the boiler rating plate, which is on the top panel of the ES2 and Series 3 models, and on the inside vestibule (behind removable door) on the right side panel for X-2, CG-F, CG-E, AG , Force and Archer models. All of the models are about 40 inches tall from the floor to the top of the jacket. U.S. Boiler ES2 models ES23, ES24, ES25, ES26, ES27, ES28, ES29 (with or without \"-N\" or \"-P\" suffix) U.S. Boiler Series 3 models 303, 304, 305, 306, 307, 308, 309 (with or without \"-N\" or \"-P\" suffix) U.S. Boiler X-2 models X-202, X-203, X-204, X-205, X-206, X-207, X-208, X-209 New Yorker CG-E models CG30E, CG40E, CG50E, CG60E, CG70E, CG80E, CG90E New Yorker CG-F models CG20F, CG30F, CG40F, CG50F, CG60F, CG70F, CG80F, CG90F Advantage AG models AG3, AG4, AG5, AG6 FORCE models FORCE02E, FORCE03E, FORCE04E, FORCE05E, FORCE06E, FORCE07E, FORCE08E, FORCE09E Archer Boilers Lancer models LCR-2-038, LCR-3-068, LCR-4-102, LCR-5-136, LCR-6-170",
+  "URL": "https://www.cpsc.gov/Recalls/2024/US-Boiler-Company-Recalls-Gas-Fired-Hot-Water-Residential-Boilers-Due-to-Carbon-Monoxide-Poisoning-Hazard",
+  "Title": "U.S. Boiler Company Recalls Gas-Fired Hot Water Residential Boilers Due to Carbon Monoxide Poisoning Hazard",
+  "ConsumerContact": "U.S. Boiler toll-free at 888-432-8887 from 8 a.m. to 5 p.m. ET Monday through Friday, email at info@usboiler.net, or online at https://s3-us-west-2.amazonaws.com/catsy.782/high+altitude+homeowner+recall+letter3.pdf or usboiler.net, archerboiler.com, or newyorkerboiler.com and click on \"Safety Recall Information: High Altitude Gas Boilers\" on the home page for more information.",
+  "LastPublishDate": "2024-03-14T00:00:00",
+  "Products": [
+   {
+    "Name": "U.S. Boiler, New Yorker Boiler, Advantage, FORCE and Archer brand gas-fired hot water residential boilers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 2,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/es2boilermain.png",
+    "Caption": "Recalled ES2Boiler"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/s3boiler.png",
+    "Caption": "Recalled Series 3 Boiler"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/X2boier.png",
+    "Caption": "Recalled X2 Boiler"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CGE-CGF-boiler.png",
+    "Caption": "Recalled CG-E // CG-F Boiler"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/advantageboiler.png",
+    "Caption": "Recalled Advantage Boiler"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/forceboiler.png",
+    "Caption": "Recalled Force Boiler"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/label-boiler.png",
+    "Caption": "Rating Plate with arrow to serial number and model information"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "U.S. Boiler Company LLC, of Lancaster, Pennsylvania",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Independent heating and plumbing contractors and wholesale distributors nationwide from February 2009 through November 2023 for between $2,000 and $4,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The blocked vent switch (BVS) can fail to shut down the burners if the boilers are installed at altitudes above 5,400 feet and the vent system becomes blocked. In such an event, the boiler can emit excessive amounts of carbon monoxide into the home, posing a carbon monoxide (CO) poisoning hazard to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers with the recalled boilers should immediately contact U.S. Boiler to receive a free repair that includes a free replacement main burner gas orifice and a free replacement blocked vent switch if needed. Consumers who continue use of the boilers while awaiting repair should have working carbon monoxide alarms outside of sleeping areas and on each floor of the home."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9881,
+  "RecallNumber": "24146",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves the lithium-ion battery packs in Anker EverFrost Coolers. The coolers are intended for use in outdoor camping, travel and fishing for cooling and freezing food or medicine. They are dark gray with wheels and a drop-down rolling handle. There is a blue charging port for charging by alternative power sources, such as plug-in or solar, on one end of the cooler. The name \"Anker EverFrost\" appears on the side in silver and blue. The model number is printed on the outer surface on the bottom of the cooler. The following model numbers are included in this recall: Product Model # Size Anker Detachable Battery pack for Powered Cooler A17B0 Not Applicable Anker EverFrost Powered Coolers 30 A17A0 33 Liter Anker EverFrost Powered Coolers 40 A17A1 43 Liters Anker EverFrost Powered Coolers 50 A17A2 53 Liters",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Anker-EverFrost-Lithium-Ion-Battery-Powered-Coolers-Recalled-Due-to-Battery-Fire-Hazard-Manufactured-by-Anker-Innovations",
+  "Title": "Anker EverFrost Lithium-Ion Battery Powered Coolers Recalled Due to Battery Fire Hazard; Manufactured by Anker Innovations",
+  "ConsumerContact": "Anker at 800-988-7973 from 9 a.m. to 5 p.m. PT Monday through Friday, email at support@anker.com, or online at https://support.anker.com/s/emailcontactus. A LiveChat function is also available at https://support.anker.com/s/contact-us, or go to https://www.anker.com/anker-solix/cooler-battery-recall-pps for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "EverFrost Battery Powered Coolers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 5,480 (In addition, about 160 in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/battery-pack-within-certain-anker-everfrost-powered-coolers-recalled-due-fire-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A0.png",
+    "Caption": "Recalled EverFrost Battery Powered Cooler Model A17A0"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A0-package.png",
+    "Caption": "Packaging of recalled EverFrost Battery Powered Cooler Model A17A0"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A1.png",
+    "Caption": "Recalled EverFrost Battery Powered Cooler Model A17A1"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A1-packaging.png",
+    "Caption": "Packaging of recalled EverFrost Battery Powered Cooler Model A17A1"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A2.png",
+    "Caption": "Recalled EverFrost Battery Powered Cooler Model A17A2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A2-int.png",
+    "Caption": "Interior of recalled EverFrost Battery Powered Cooler Model A17A2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A2-package.png",
+    "Caption": "Packaging of recalled EverFrost Battery Powered Cooler Model A17A2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-A17A2-package-2.png",
+    "Caption": "Packaging of recalled EverFrost Battery Powered Cooler Model A17A2"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-battery-pack.png",
+    "Caption": "Recalled EverFrost Detachable Battery Pack A17B0"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/everfrost-battery-pack-2.png",
+    "Caption": "Recalled EverFrost Detachable Battery Pack A17B0"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received five reports of overheating, smoke and/or fire. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Anker Innovations Limited, of Hong Kong",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Best Buy, TD Synnex and other stores nationwide and online at kickstarter.com from May 2023 through September 2023 for between $250 and $950.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The lithium-ion batteries in the Anker EverFrost Coolers can overheat, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled coolers, and contact Anker for a free replacement lithium-ion battery pack. Visit https://www.anker.com/anker-solix/cooler-battery-recall-pps to file a claim, and for instructions on how to replace the battery pack. Recalled lithium-ion batteries should be disposed of in accordance with any local and state laws, and not in the trash."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 9890,
+  "RecallNumber": "24155",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves Bubble Bear brand crib mattresses with a manufacture date of 4/2022 from batch number 20220428CD. It includes models \"Gray Style\" and \"Happy Time.\" The Gray Style has a gray top with a crisscross white pattern and off-white sides, and is labeled model CD-03. The Happy Time has a white top with paint brush, boat, and mountain print, and is labeled model CD-02. \"Bubble Bear\" is printed on a sewn-in tag with a teddy bear on both models.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Bubble-Bear-Crib-Mattresses-Recalled-Due-to-Fire-Hazard-Violations-of-the-Federal-Safety-Regulation-for-Mattresses-Sold-Exclusively-on-Amazon-com-by-Coral-Island",
+  "Title": "Bubble Bear Crib Mattresses Recalled Due to Fire Hazard; Violations of the Federal Safety Regulation for Mattresses; Sold Exclusively on Amazon.com by Coral Island",
+  "ConsumerContact": "Shenzhen Coral Island Furniture by email at coralisland2020@outlook.com.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Bubble Bear Crib Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 750"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/bblbear-mattress.png",
+    "Caption": "Recalled Bubble Bear Gray Style Crib Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/mattress-label.png",
+    "Caption": "Sewn-in label showing 4/2022 manufacture date, model CD-03, and batch number 20220428CD"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/bblbear-mattress2.png",
+    "Caption": "Recalled Bubble Bear Happy Time Crib Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/mattresslabel-2.png",
+    "Caption": "Sewn-in label showing 4/2022 manufacture date, model CD-02, and batch number 20220428CD"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/bblbear-label.png",
+    "Caption": "Sewn-in Bubble Bear Label on Side of Mattress"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Online at Amazon.com from May 2022 through July 2022 for about $55.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Shenzhen Coral Island Furniture Co, d/b/a Coral Island, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled crib mattresses violate the federal safety regulation for mattresses by failing to meet the flammability and labeling requirements, posing a fire hazard to children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled crib mattresses and contact the firm by email to receive a full refund and for directions on how to dispose of the mattresses. Shenzhen Coral Island Furniture and Amazon are contacting all purchasers directly by email. Consumers should use scissors to cut out the top fabric on both sleep surfaces, and submit photos of each side to coralisland2020@outlook.com to receive a refund and instructions on how to dispose of the mattress."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9886,
+  "RecallNumber": "24151",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves the braided black bracelet that is a part of the Skechers watch/bracelet gift set. The bracelet is black and features a braided pattern with a metal clasp on each end. The watch in the gift set has a code number \"IF2812307\" printed on the back of the watch as well as \"Sketchers\" and model number \"SR9082\".",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Fossil-Group-Recalls-Bracelet-Sold-with-Skechers-Jewelry-Gift-Sets-Due-to-High-Levels-of-Lead-and-Cadmium",
+  "Title": "Fossil Group Recalls Bracelet Sold with Skechers Jewelry Gift Sets Due to High Levels of Lead and Cadmium",
+  "ConsumerContact": "Fossil Group at 800-842-8621 from 8 a.m. to 8 p.m. CT Monday through Friday and from 9:30 a.m. to 7 p.m. CT Saturday and Sunday, email at info@fgservices.com or online at www.fossilgroup.com/recalls/ or www.fossilgroup.com and click on \"Recalls\" for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Bracelet sold with Skechers Watch and Jewelry Gift Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 260"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/giftset.png",
+    "Caption": "Recalled Skechers Jewelry Gift Set"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fossil-bracelet.png",
+    "Caption": "Recalled Bracelet"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fossil-bracelet-clasp.png",
+    "Caption": "Recalled Bracelet Clasp"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/back-watch.png",
+    "Caption": "Back of Watch in Recalled Skechers Jewelry Gift Set With Model Number and Code"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Fossil Group Inc., of Richardson, Texas",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Skechers stores nationwide and online at Amazon.com, Watchstation.com and Skechers.com from August 2023 through January 2024 for about $45.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Fossil Partners, L.P. of Richardson, Texas",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The clasp on the braided black bracelet sold as part of the gift set contains high levels of lead and cadmium. Lead and cadmium are toxic and can cause adverse health effects in children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled bracelet in the gift set, dispose of it in the trash and contact the website or store where purchased for a full refund of the gift set's purchase price."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9882,
+  "RecallNumber": "24147",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves 5mm Magnetic Balls which are small, spherical, loose, and separable neodymium rare-earth magnets with a strong magnetic flux. The 5mm diameter magnets are sold in a set of 216 magnetic balls in various colors and encased in a clear, plastic case and a portable tin storage box.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Getallfun-Recalls-High-Powered Magnetic Ball Sets Due to Ingestion-Hazard-Failure-to-Meet-Federal-Safety-Regulation-for-Toy-Magnet-Sets",
+  "Title": "Getallfun Recalls High-Powered Magnetic Ball Sets Due to Ingestion Hazard; Failure to Meet Federal Safety Regulation for Toy Magnet Sets",
+  "ConsumerContact": "Email Getallfun at info@getallfun.com, or online at https://getallfun.com/pages/product-recall or https://getallfun.com and click on \"Product Recall\" at the top of the homepage for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "216-Piece 5mm Magnet Balls",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,140"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/getalfun.png",
+    "Caption": "Recalled Getallfun.com 216-Piece 5mm Magnet Balls"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported. CPSC estimates 2,400 magnet ingestions were treated in hospital emergency departments from 2017 through 2021. CPSC is aware of seven deaths involving the ingestion of hazardous magnets, including two outside of the United States."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Getallfun's store in Aurora, Illinois and online atGetallfun.com from May 2021 through October 2023 for about $20.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Getallfun, of Aurora, Illinois",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "CPSC testing determined the magnetic ball sets do not comply with the requirements of the mandatory federal toy regulation because they contain one or more magnets that fit within CPSC's small parts cylinder and the magnets are stronger than permitted. When high-powered magnets are swallowed, the ingested magnets can attract each other, or another metal object, and become lodged in the digestive system. This can result in perforations, twisting and/or blockage of the intestines, infection, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled magnets immediately, take them away from children and contact Getallfun.com to receive a pre-paid label to return the recalled products. Upon receipt of the products, consumers will receive a full refund. Getallfun is notifying all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9883,
+  "RecallNumber": "24148",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves GT Model Year 2019 through 2023 LaBomba 24\" bicycles, LaBomba 26\" bicycles, LaBomba Pro bicycles, LaBomba Rigid bicycles, and LaBomba 26\" bicycle framesets. The bicycles and framesets were sold in sea green, green, dusty blue, blue, purple, and red. The model name LaBomba is printed on the bicycle frame top-tube. \"GT\" is printed on the downtube.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/GT-Recalls-LaBomba-Bicycles-Due-to-Fall-and-Injury-Hazards",
+  "Title": "GT Recalls LaBomba Bicycles Due to Fall and Injury Hazards",
+  "ConsumerContact": "GT at 800-843-2453 from 9 a.m. to 6 p.m. ET and Monday through Friday, email at ridersupport@gtbicycles.com or online at www.gtbicycles.com/pages/recalls-safety or www.gtbicycles.com and click on \"Recalls & Safety\" for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "GT LaBomba bicycles",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 3,040 (In addition, about 324 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/gt-labomba-bicycles-and-framesets-recalled-due-fall-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/labomba24.png",
+    "Caption": "Recalled GT LaBomba 24\""
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Labombarigid.png",
+    "Caption": "Recalled GT LaBomba Rigid"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Labombapro.png",
+    "Caption": "Recalled GT LaBomba Pro"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received five reports of damage to the bicycle headtube/downtube weld, causing the bicycle headtube to separate from the bicycle frame. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Bicycle stores nationwide from October 2018 through September 2023 for between $400 and $1,450.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "GT Bicycles LLC, of Aliso Viejo, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Taiwan"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The bicycle headtube/downtube weld can become damaged and separate from the bicycle frame, posing fall and injury hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled bicycles and contact an authorized GT dealer for a free replacement frame."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 9879,
+  "RecallNumber": "24144",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves 5mm (.2 inch) magnetic balls which are small, spherical, loose and separable neodymium rare-earth magnets with a strong magnetic flux. The 5mm-diameter magnets are sold in a set of 226 multi-colored magnetic balls encased in a clear, plastic case and a portable, tin storage box. The set includes a black storage bag.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/High-Powered-Magnetic-Ball-Sets-Recalled-Due-to-Ingestion-Hazard-Violation-of-the-Federal-Safety-Regulation-for-Toy-Magnet-Sets-Sold-Exclusively-on-Walmart-com-through-Joybuy",
+  "Title": "High-Powered Magnetic Ball Sets Recalled Due to Ingestion Hazard; Violation of the Federal Safety Regulation for Toy Magnet Sets; Sold Exclusively on Walmart.com through Joybuy",
+  "ConsumerContact": "Joybuy Marketplace Express collect at 302-426-4543 from 9 a.m. to 5 p.m. PT Monday through Friday, by email at oversea-service@jd.com, or online at https://www.walmart.com/seller/16214 for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Magnetic Stones Toy Creativity Development DIY Magnetic Beads, 5mm (.2 inch)",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 650"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/joybuy-magnets.jpg",
+    "Caption": "Recalled 226pcs 5mm (0.2 inch) Magnetic Stones Toy Creativity Development DIY Magnetic Beads"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported. CPSC estimates 2,400 magnet ingestions were treated in hospital emergency departments from 2017 through 2021. CPSC is aware of seven deaths since 2005 involving the ingestion of hazardous magnets, including two outside of the United States."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Exclusively online at Walmart.com from August 2022 through April 2023 for about $14.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Shanghai Beiyong Trading Co., of China, through JD-E Commerce America Limited (dba Joybuy Marketplace Express), of Irvine, California",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled 5mm magnetic ball sets violate the mandatory federal toy magnet regulation because they contain one or more magnets that fit within CPSC's small parts cylinder, and the magnets are stronger than permitted. When high-powered magnets are swallowed, the ingested magnets can attract each other, or another metal object, and become lodged in the digestive system. This can result in perforations, twisting and/or blockage of the intestines, infection, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled magnetic ball sets immediately, take them away from children, and contact Joybuy Marketplace Express to receive a pre-paid label to return them for a full refund. Joybuy Marketplace Express is notifying all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9880,
+  "RecallNumber": "24145",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "The recall involves Jool Baby's Nova Baby infant swings, manufactured from June 2022 through September 2023. The recalled swings are gray and measure about 28 inches long, 19 inches wide and 24 inches high. They have a round aluminum base with music buttons on the front, a metal seat frame, a cloth seat with restraints and a headrest, and a canopy with hanging toys (yellow moon, blue cloud, and pink star.) The swings can be powered using AAA batteries or an AC adaptor and came with an electronic remote control. \"Jool Baby\" appears on the swing's base and \"NOVA\" on the seat label. The manufacturing date code in month, day, year format can be found on the sewn-in warning label on the back of the swing's seat.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Jool-Baby-Recalls-Nova-Baby-Infant-Swings-Due-to-Suffocation-Hazard-Violation-of-the-Federal-Safety-Regulations",
+  "Title": "Jool Baby Recalls Nova Baby Infant Swings Due to Suffocation Hazard; Violation of the Federal Safety Regulations",
+  "ConsumerContact": "Contact Jool Baby toll-free at 888-788-5665 from 10 a.m. to 4 p.m. ET, Monday through Thursday and from 10 a.m. to 1 p.m. ET, on Friday, email at recall@JoolBaby.com or online at www.JoolBaby.com/recall or www.JoolBaby.com and click \"Recall Information\" at the bottom of the page for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Jool Baby Nova Baby Infant Swings",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 650"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/nova-swing.png",
+    "Caption": "Recalled Jool Baby Nova Baby Infant Swing"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/nova-mfr-date.png",
+    "Caption": "Model JBP-NOVA-GRY and the manufacture date are printed on the sewn-in warning label on the back of the swing's seat"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/nova-warning-label.png",
+    "Caption": "New seat warning label to be provided as part of the repair kit"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Walmart stores and online at www.JoolBaby.com, www.amazon.com, www.babylist.com, www.target.com, www.walmart.com and other websites from November 2022 through November 2023 for about $150.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Jool Products LLC, dba Jool Baby, of Lakewood, New Jersey",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The swings pose a suffocation risk because they were marketed, intended, or designed for infant sleep, and they have an incline angle greater than 10 degrees in violation of the CPSC's Infant Sleep Products Regulation and the Safe Sleep for Babies Act. In addition, the swing fails to meet mandatory warning requirements regarding sleep under the swing standard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled swings for sleep, and contact Jool Baby to receive a free repair kit, including shipping. Consumers should upload a photo of the warning label to the firm's online registration page at www.JoolBaby.com/recall. Once registered, Jool Baby will send consumers a repair kit consisting of a new seat with updated on-product warnings, updated plush toys and an updated remote control."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "New Instructions"
+   },
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9888,
+  "RecallNumber": "24153",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves SINGES 3-in-1 Baby High Chairs and Booster Seats. The high chair has a light blue cushioned seat, detachable legs and adjustable tray that can be converted into a booster seat with shorter legs or wheels. The high chairs were sold in blue and red colors.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/SINGES-3-in-1-High-Chair-and-Booster-Seats-Recalled-Due-to-Fall-Hazard-Violations-of-the-Federal-Safety-Regulations-for-High-Chairs-and-Booster-Seats-Sold-Exclusively-at-Walmart-com-Imported-and-Sold-by-Shenzhen-Yingjieshang-Trade",
+  "Title": "SINGES 3-in-1 High Chair and Booster Seats Recalled Due to Fall Hazard; Violations of the Federal Safety Regulations for High Chairs and Booster Seats; Sold Exclusively at Walmart.com; Imported and Sold by Shenzhen Yingjieshang Trade",
+  "ConsumerContact": "Shenzhen Yingjieshang Trade collect at 206-458-7003 from 9 a.m. to 5 p.m. ET Monday through Friday, email at szyjsmygswfs@outlook.com, or online at www.singes-online.com/faq-75.html or www.singes-online.com and click on \"Recall\" at the top of the page for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "SINGES 3-in-1 Baby High Chairs and Booster Seats",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 175"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/singes3-n-1.png",
+    "Caption": "Recalled SINGES 3-in-1 Baby High Chair and Booster Seat"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Walmart.com from February 2020 to December 2021 for about $75.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Shenzhen Yingjieshang Trade Co Ltd,, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled high chair, which converts into a booster seat, violates the safety regulations for both high chairs and booster seats. Multiple failures were identified including, but not limited to, insufficient restraint system, stability, static load, latching and locking mechanisms, leg openings, warnings, labels, and literature. The product can tip over or collapse and present a fall hazard to children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled high chairs and return them to Walmart for a full refund. Shenzhen Yingjieshang Trade and Walmart are contacting all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 9885,
+  "RecallNumber": "24150",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves model ECO TERRA Eco Terra Mattresses manufactured from Aug 5, 2022 to Aug 18, 2022. The mattresses are 10 inches thick with a top panel that is ivory and quilted. The side panel is brown knit quilted with horizontal lines, and the top and bottom tape edges are ivory. The manufacture dates and model name \"ECO TERRA\" are located on the mattress label, sewn into the cover.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Sleep-Technologies-Recalls-Eco-Terra-Mattresses-Due-to-Fire-Hazard-Violation-of-Federal-Mattress-Flammability-Regulation-Sold-Exclusively-on-Ecoterrabeds-com",
+  "Title": "Sleep Technologies Recalls Eco Terra Mattresses Due to Fire Hazard; Violation of Federal Mattress Flammability Regulation; Sold Exclusively on Ecoterrabeds.com",
+  "ConsumerContact": "Sleep Technologies toll-free at 888-605-0409 from 8 a.m. to 6 p.m. PT Monday through Friday, email support@ecoterrabeds.com, or online at https://ecoterrabeds.com/pages/recall or www.ecoterrabeds.com and click on \"Recall\" at the top of the page for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Eco Terra Hybrid Latex Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 84"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/terra-mattress.png",
+    "Caption": "Recalled Eco Terra Hybrid Latex Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/matrs-lbl.png",
+    "Caption": "Recalled Eco Terra Hybrid Latex Mattress Label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Sleep Technologies Inc., d/b/a The Natural Latex Co. of Camarillo, California",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Online at Ecoterrabeds.com in August 2022 for about $900.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The mattresses violate the smoldering ignition requirements of the federal mattress flammability regulation, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled mattress and contact Sleep Technologies to receive a free cover to put on the mattress to bring it into compliance with the federal regulation. Sleep Technologies is contacting all purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9889,
+  "RecallNumber": "24154",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves all model year 2024 Arctic Cat Catalyst 600 series snowmobiles. The snowmobiles were sold in various colors and model name \"ZR,\" \"Riot\" or \"Mountain\" printed on each side of the engine cowling.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Textron-Specialized-Vehicles-Recalls-Arctic-Cat-Catalyst-600-Snowmobiles-Due-to-Injury-Hazard",
+  "Title": "Textron Specialized Vehicles Recalls Arctic Cat Catalyst 600 Snowmobiles Due to Injury Hazard",
+  "ConsumerContact": "Textron Specialized Vehicles at 800-279-2281 from 8 a.m. to 5 p.m. CT, Monday through Friday, email at arcticcatwarranty@textron.com or online at https://arcticcat.txtsv.com/owners/recalls or https://arcticcat.txtsv.com/ and select \"Recall\" for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Model Year 2024 Arctic Cat Catalyst 600 Series Snowmobiles",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 2,700 (In addition, about 900 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2024010"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/catcatalyst-600.png",
+    "Caption": "Recalled Textron Specialized Vehicles Artic Cat Catalyst 600 Series Snowmobile"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received three reports of brake line damage. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Textron Specialized Vehicles, of Augusta, Georgia",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Authorized Arctic Cat dealers nationwide from November 2022 through January 2024 for between $13,800 and $16,100.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The brake line can come in contact with the brake disc, which can cause damage to the brake line and result in brake loss, posing an injury hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled snowmobiles and contact Textron Specialized to arrange for a free inspection and free repair at a dealer or to receive a free repair kit, including shipping. Textron Specialized will mail consumers a repair kit which consists of a cable tie, installation instructions, and a turn card for consumers to repair their vehicle themselves. Textron Specialized Vehicles is contacting all purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9887,
+  "RecallNumber": "24152",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves Tommy Bahama brand brown stretch twill children's pants with rib cuffs and with a drawstring that were sold as part of a set with either a blue or green butter fleece crewneck top with an embroidered winking smiley face by the left shoulder. The pants were sold in sizes 18M to 5T. The sewn-in label on the pants is printed with \"Suzhou Megatex Import And Export\" and the style number CP08513. Only the pants in the set are included in this recall.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/TJX-Recalls-Childrens-Brown-Stretch-Twill-Pants-Sets-Due-to-Choking-Hazard-Sold-Exclusively-at-Marshalls",
+  "Title": "TJX Recalls Children's Brown Stretch Twill Pants Sets Due to Choking Hazard; Sold Exclusively at Marshalls",
+  "ConsumerContact": "TJX toll-free at 888-627-7425 from 9 a.m. to 6 p.m. ET Monday through Friday or online at https://www.marshalls.com/us/store/jump/topic/Find-Help/Our-Product/6500006p#productrecalls or Marshalls.com and click on \"Product Recalls\" at the bottom of the page for more information. Customers can also email customer service at customerservice@tjx.com.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Tommy Bahama brand children's pants sets",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 14,500 (In addition, about 720 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/2-piece-tommy-bahama-set-smiley-crew-neck-long-sleeve-twill-pant-recalled-due-choking"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-front.png",
+    "Caption": "Recalled Pants (Front View)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-back.png",
+    "Caption": "Recalled Pants (Back View)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-top-front.png",
+    "Caption": "Recalled Pants with Green Crewneck Top"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-top-back.png",
+    "Caption": "Recalled Pants with Green Crewneck Top"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-blue-front.png",
+    "Caption": "Recalled Pants with Blue Crewneck Top"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-blue-back.png",
+    "Caption": "Recalled Pants with Blue Crewneck Top"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pants-label.png",
+    "Caption": "Label on Recalled Pants"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Marshalls stores nationwide from December 2023 through February 2024 for $13 (set with green top) and $15 (set with blue top).",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "The TJX Companies Inc., of Framingham, Massachusetts",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The plastic pieces on the end of the pants' faux drawstrings can come loose and fall off, posing a choking hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately take the recalled pants away from children and cut off the faux drawstrings to eliminate the hazard. Consumers can also contact TJX for instructions on how to destroy the pants and obtain a full refund. Consumers can also return the pants to any Marshalls store for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   },
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 9884,
+  "RecallNumber": "24149",
+  "RecallDate": "2024-03-07T00:00:00",
+  "Description": "This recall involves Yamaha's PA-10 AC Power Adaptors with date codes ranging from 2126 to 2319. Yamaha is printed on the front of the black power adapter. The date code is printed on the back. Yamaha's PA-10 AC Power Adapter was bundled with five Yamaha analog mixing console models - MG10, MG10X CV, MG10XU, MG10XUF, and MG12XUK - and sold as a stand-alone replacement part. Only Yamaha's PA-10 AC Power Adapter is being recalled.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Yamaha-Corporation-of-America-Recalls-Power-Adaptors-Due-to-Electrical-Shock-and-Electrocution-Hazards",
+  "Title": "Yamaha Corporation of America Recalls Power Adaptors Due to Electrical Shock and Electrocution Hazards",
+  "ConsumerContact": "Yamaha toll-free at 844-703-5446 from 8:30 a.m. to 5 p.m. PT Monday through Friday; email at pa10recall@yamaha.com; or online at www.yamaha.com/us/support/pa10recall/ or at www.usa.yamaha.com and click on \"Product Safety Information\" at the bottom of the page for more information.",
+  "LastPublishDate": "2024-03-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Yamaha PA-10 AC Power Adaptors",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 34,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pa-10-adaptor.png",
+    "Caption": "Recalled PA-10 AC Power Adaptor"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pa-10-back.png",
+    "Caption": "Back of the Recalled PA-10 AC Power Adaptor Showing Date Code"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pa-10-crack.png",
+    "Caption": "A crack can occur between the recalled PA-10 AC Power Adapter's upper and lower cases"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Yamaha Corporation, of Japan",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Guitar Center, Amazon.com, Sweetwater Sound, Sam Ash, Musicians Friend, B & H Foto & Electronics, American Musical Supply, and other independent, authorized Yamaha professional audio stores nationwide; and directly by Yamaha online at www.usa.yamaha.com and www.shop.usa.yamaha.com/ from June 2021 through November 2023 for about $60.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Yamaha Corporation of America, of Buena Park, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "A crack can occur between the PA-10 AC Power Adapter's upper and lower cases. The upper and lower cases can separate completely and expose electrical wiring, posing electrical shock and electrocution hazards to consumer.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the PA-10 AC Power Adaptor and contact Yamaha for a free replacement. Yamaha will provide a free replacement AC Power Adapter to any consumer who purchased a Yamaha mixing console that contained a defective PA-10 AC Power Adapter and/or purchased a defective PA-10 AC Power Adapter as a stand-alone replacement part."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 8597,
+  "RecallNumber": "19755",
+  "RecallDate": "2019-06-28T00:00:00",
+  "Description": "This recall involves various models of 2019 model Grizzly ATVs and Wolverine X2 Side-by-Side vehicles (ROVs). The prefix and serial number of the vehicles are stamped into the frame as part of the Vehicle Identification Number (VIN). The VIN is located on the left front frame on ATVs and the left rear frame on side-by-sides (ROVs). The prefix is the 4th through 8th digit of the VIN, and the serial number is the last six digits. Model, prefix and serial numbers are listed in this chart. Yamaha and either the Grizzly or Wolverine X2 are printed on the side of the vehicles. The model number is printed on the vehicle's emission control information label. Grizzly ATVs MODEL PRIMARY ID NUMBER PREFIX FROM TO YFM70GPAK AMK33 100491 100700 YFM70GPHK AMH23 100891 100957 100958 100962 100976 101125 YFM70GPLK AMK23 100791 100810 100971 100990 101021 101085 101106 101125 101166 101225 101256 101275 101296 101345 Wolverine X2 Side-by-Side Vehicles (ROVs) MODEL PRIMARY ID NUMBER PREFIX FROM TO YXE85WPSK AN27Y 101261 101290 101441 101480 101691 101740 YXE85WPHK AN27Y 101481 101490 YXE85WPAK AN27Y 101341 101440 101789 101860 101771 101788 YXE85WPLK AN27Y 101491 101690 101741 101770 101861 101870 YXE85WPBK AN26Y 100261 100460",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Yamaha-Recalls-Grizzly-ATVs-and-Wolverine-X2-ROVs-Due-to-Incorrect-Owners-Manual-Recall-Alert",
+  "Title": "Yamaha Recalls Grizzly ATVs and Wolverine X2 ROVs Due to Incorrect Owner\u2019s Manual (Recall Alert)",
+  "ConsumerContact": "Yamaha at 800-962-7926 anytime or online at www.yamahamotorsports.com and click on the CPSC Alerts tab for more information.",
+  "LastPublishDate": "2019-06-28T00:00:00",
+  "Products": [
+   {
+    "Name": "Yamaha Grizzly ATVs and Wolverine X2 Side-by-Side Vehicles (ROV)",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-28 at 7.52.31 AM.png",
+    "Caption": "Recalled Grizzly 700 ATV (Model YFM70G)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-28 at 7.52.38 AM.png",
+    "Caption": "Recalled Grizzly LE ATV (Model YFM70G)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-28 at 7.52.47 AM.png",
+    "Caption": "Recalled Wolverine X2 (Model YXE85W)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-28 at 7.52.53 AM.png",
+    "Caption": "Recalled Wolverine X2 R-Spec (Model YXE85W)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-28 at 7.52.58 AM.png",
+    "Caption": "Recalled Wolverine X2 R-Spec SE (Model YXE85W)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Exclusively at Yamaha ATV and Side-by-Side dealers nationwide. Grizzly ATVs were sold from June 2018 through May 2019 for between $9,900 and $10,500. Wolverine X2 Side-by-Sides ROVs were sold from June 2018 through May 2019 for between $12,700 and $15,300.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Yamaha Motor Corporation U.S.A., of Cypress, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Japan and assembled in the United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Purchasers were given a defective owner's manual which shows the correct model on the cover, but the contents are for another model.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately contact Yamaha for a free replacement owner's manual. Yamaha is contacting all registered owners directly by U.S. mail. The envelope from Yamaha contains a free replacement owner's manual."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 8593,
+  "RecallNumber": "19152",
+  "RecallDate": "2019-06-27T00:00:00",
+  "Description": "This recall involves certain Apple 15-inch MacBook Pro laptop computers. The recalled laptop computers have a 15.4-inch (diagonal) display, 2.2-2.5 GHz processors, 256GB-1TB solid-state storage, two Thunderbolt 2 ports, two USB 3 ports, and one HDMI port. Consumers can determine if their laptop computer is included in this recall by checking the laptop's serial number at https://support.apple.com/15-inch-macbook-pro-battery-recall/. The serial number can be found on the underside of the laptop computer or by choosing \"About This Mac\" from the Apple menu. Only MacBook Pro 15-inch model laptop computers with certain serial numbers are included.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Apple-Recalls-15-Inch-MacBook-Pro-Laptop-Computers-Due-to-Fire-Hazard",
+  "Title": "Apple Recalls 15-Inch MacBook Pro Laptop Computers Due to Fire Hazard",
+  "ConsumerContact": "Apple at 800-275-2273 anytime, or online at www.apple.com, click on support, then \u201c15-inch MacBook Pro Battery Recall Program\u201d at the bottom of the page for more information.",
+  "LastPublishDate": "2019-06-27T00:00:00",
+  "Products": [
+   {
+    "Name": "15-inch MacBook Pro laptop computers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 432,000 (in addition, about 26,000 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/70277r-eng.php"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pic1_32.png",
+    "Caption": "Apple 15-inch MacBook Pro laptop computer"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Apple has received 26 reports of the laptop's battery overheating, including five reports of minor burns and one report of smoke inhalation, as well as 17 reports of minor damage to nearby personal property."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Apple Inc., of Cupertino, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Apple stores and electronics stores nationwide, and online at www.apple.com from September 2015 through February 2017 starting at about $2,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Apple Inc., of Cupertino, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [
+   {
+    "Name": "Apple Inc., of Cupertino, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The batteries in the recalled laptop computers can overheat, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled laptop computers. Contact Apple to determine if the laptop computer is a part of the recall and to schedule a free repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8594,
+  "RecallNumber": "19153",
+  "RecallDate": "2019-06-27T00:00:00",
+  "Description": "This recall involves Sea-Doo LinQ\u2122 13.5 gallon or 51 liter marine coolers sold separately or with model year 2019 Sea-Doo Fish Pro personal watercraft. The coolers are made for use on boats and marine environments. Part number 269800817 is engraved under the cooler and can also be found on a sticker under the cooler. The coolers are white with black storage pocket, rod holder system and trolling slots.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/BRP-Recalls-Coolers-Due-to-Entrapment-and-Suffocation-Hazards",
+  "Title": "BRP Recalls Coolers Due to Entrapment and Suffocation Hazards",
+  "ConsumerContact": "BRP toll-free at 888-272-9222 from 8 a.m. to 8 p.m. ET Monday through Sunday or online at https://www.sea-doo.com/form/contact-us.html or www.sea-doo.com and click on \u201cOwner Center,\u201d then \u201cSafety\u201d for more information.",
+  "LastPublishDate": "2019-06-27T00:00:00",
+  "Products": [
+   {
+    "Name": "BRP Sea-Doo marine coolers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 2,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/pic.png",
+    "Caption": "Sea-Doo LinQ\u2122 13.5 U.S. Gal (51 L) Cooler"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sea-Doo dealers nationwide and online on sea-doo.com, Amazon.com, and other websites from September 2018 through June 2019 for about $650 when sold separately.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "BRP U.S. Inc., of Sturtevant, Wis.",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The cooler latch can automatically lock when the lid is closed, allowing a person to become locked inside the air tight container posing entrapment and suffocation hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately put the coolers out of the reach of children. Contact a BRP Sea-Doo dealer for a free repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8596,
+  "RecallNumber": "19155",
+  "RecallDate": "2019-06-27T00:00:00",
+  "Description": "This recall involves Design Classics chandeliers with model number 161-78. The chandelier has nine individual light sockets and white glass cylinder shades over each socket. They are 28\u00bc inches tall and 31\u00bc inches wide with a Bronze finish. Model number 161-78 and the date of manufacture are printed on a label affixed to the underside of the ceiling canopy. Dates of manufacture included in the recall are between 01November2012 and 15November2015.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Chandeliers-Recalled-by-Dolan-Northwest-Due-to-Impact-and-Laceration-Hazards",
+  "Title": "Chandeliers Recalled by Dolan Northwest Due to Impact and Laceration Hazards",
+  "ConsumerContact": "Dolan Northwest toll-free at 888-213-5758 from 9 a.m. to 5 p.m. PT Monday through Friday, email recall@dolanco.com or online at www.seattlelighting.com, www.globelighting.com, www.builderslighting.com, or www.destinationlighting.com and click on \u201cRecalls\u201d for more information.",
+  "LastPublishDate": "2019-06-27T00:00:00",
+  "Products": [
+   {
+    "Name": "Design Classics Chandeliers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 260"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_25.png",
+    "Caption": "Recalled Design Classics Chandelier"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_25.jpg",
+    "Caption": "Label with model number and date code on chandelier\u2019s canopy"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received four reports of the top loop failing causing the chandelier to fall, resulting in one report of property damage to the floor under the chandelier. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Seattle Lighting, Globe Lighting and Builders Lighting showrooms in the Pacific Northwest and online at DestinationLighting.com from November 2012 through May 2017 for about $390.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Dolan Northwest LLC, of Portland, Ore., dba Seattle Lighting, Globe Lighting, Builders Lighting and Destination Lighting",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The top loop of the fixture can bend and break causing the chandelier to fall, posing an impact and laceration hazard to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should prevent people from going into the immediate area underneath the chandelier. Contact Dolan Northwest to receive a free repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8592,
+  "RecallNumber": "19151",
+  "RecallDate": "2019-06-27T00:00:00",
+  "Description": "This recall involves the inclined sleeper accessory sold with all Ultra-Lite Day & Night Play Yards with model numbers CBV60, CHP86, CHR06, CJK24, and DJD11. The model number is located on the fabric label inside of the play yard and on the fabric label on the back of the inclined sleeper pad. The product is a portable play yard with inclined sleeper and changing station clutch accessories and a carry bag; the inclined sleeper accessory is the only portion of the product that is being recalled.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Fisher-Price-Recalls-Inclined-Sleeper-Accessory-Included-with-Ultra-Lite-Day-Night-Play-Yards-Due-to-Safety-Concerns-About-Inclined-Slee-Products",
+  "Title": "Fisher-Price Recalls Inclined Sleeper Accessory Included with Ultra-Lite Day & Night Play Yards Due to Safety Concerns About Inclined Sleep Products",
+  "ConsumerContact": "Fisher-Price online at www.service.mattel.com and click on \u201cRecalls & Safety Alerts\u201d or at 800-432-5437 from 9 a.m. to 6 p.m. ET Monday through Friday for more information.",
+  "LastPublishDate": "2019-06-27T00:00:00",
+  "Products": [
+   {
+    "Name": "Inclined sleeper accessory included with all models of Fisher-Price Ultra-Lite Day & Night Play Yards",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 71,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-27 at 8.05.55 AM.png",
+    "Caption": "Ultra-Lite Play Yard with Inclined sleeper"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-27 at 8.06.04 AM.png",
+    "Caption": "Ultra-Lite Play Yard without Inclined sleeper"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Juvenile product stores and mass merchandisers nationwide from October 2014 through June 2019 for between $90 and $110.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Fisher-Price, of East Aurora, N.Y.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Infant fatalities have been reported while using other inclined sleep products, after the infants rolled from their back to their stomach or side while unrestrained, or under other circumstances.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the inclined sleeper accessory and contact Fisher-Price for a refund or voucher. Consumers can continue to use the play yard portion of the product without the inclined sleeper accessory, and can also continue to use the changing station clutch accessory and carry bag."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8595,
+  "RecallNumber": "19154",
+  "RecallDate": "2019-06-27T00:00:00",
+  "Description": "This recall involves Venus Simply3 disposable razors. The razors come in pink, purple, and yellow colors and were sold in two types of packages: a Venus Simply3 Disposable Razor 4-pack and a Daisy 12+1 Venus Simply3 Bonus Pack which included one free Venus Simply3 razor. The ten digit lot code can be found on the right or left side of the plastic package. The UPC number can be found inside the package adjacent to the bar code. Venus Simply3\" - 4 count pack razors Lot numbers: 9003A17400 and 9007A17400 UPC: 047400315358 Daisy 12 + 1 Venus Simply3 razors Lot number: 9009A17400 UPC: 047400300712",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Gillette-Recalls-Venus-Simply3-Disposable-Razors-Due-to-Laceration-and-Injury-Hazards",
+  "Title": "Gillette Recalls Venus Simply3 Disposable Razors Due to Laceration and Injury Hazards",
+  "ConsumerContact": "Gillette at 800-362-1258 from 9 a.m. to 6 p.m. ET Monday through Friday and 9 a.m. to 5 p.m. ET Saturday through Sunday or online at www.gillettevenus.com and click on Safety Notification for more information.",
+  "LastPublishDate": "2019-06-27T00:00:00",
+  "Products": [
+   {
+    "Name": "Venus Simply3 Disposable razors",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 87,000 (in addition, about 2,700 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/70219r-eng.php"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_25.jpg",
+    "Caption": "Venus Simply3 Disposable Razor \u2013 4 count pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_24.jpg",
+    "Caption": "Daisy 12+1 Simply3 Bonus pack"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Gillette has received one report of a consumer who was cut while using the recalled razor."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "The Gillette Company LLC, of Boston, Mass.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Food, drug, and mass merchandise stores nationwide from January 2019 through May 2019 for between $6 and $10.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "The Gillette Company LLC, of Boston, Mass.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Mexico"
+   }
+  ],
+  "ProductUPCs": [
+   {
+    "UPC": "047400300712"
+   },
+   {
+    "UPC": "047400315358"
+   }
+  ],
+  "Hazards": [
+   {
+    "Name": "A problem during manufacturing resulted in the misalignment of the blades in the razors, posing a higher risk of cuts during normal use.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled Venus Simply3 razors and contact Gillette to receive a postage-paid return label to return the razors and receive a voucher for a replacement."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 8588,
+  "RecallNumber": "19147",
+  "RecallDate": "2019-06-26T00:00:00",
+  "Description": "This recall involves 18 different consumer fireworks. The brand name, product name and the item number are printed on the outside wrapping of the firework. Brand Product Name Item Number Price Sold For Clown Rise in the East CL1000 $24-36 a box, $2 individual None Listed Safe cracker No Model Listed $24-36 a box, $3 individual None Listed Angry Elf No Model Listed $39.99 a box None Listed Mamba No Model Listed $20.00 a box, $2 individual None Listed Crazy King KF0168 $20.00 a box, $2 individual None Listed POW! No Model Listed $32.99 a box None Listed Bang No Model Listed $32.99 a box None Listed Crazy Robot Flowers BW500 $24-36 a box, $3 individual None Listed Frog Balls FB5015 $50.00 a box None Listed Dragon Artillery (Assorted) W515B $30.00 a box None Listed Small Festival Balls N1000 $50.00 a box None Listed Cock Rises! FF5001 $50.00 a box None Listed Sammy's Best No Model Listed $24.00 a box None Listed Katherine's Catapult PF0402 $24.00 a pack Clown Heavy Bomber GX7502 $20.00 a pack None Listed Multiple Rocket No Model Listed $50.00 a pack None Listed Talon No Model Listed $40.00 a pack. None Listed Block Buster No Model Listed $24-36 a box, $3 individual",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Grandmas-Fireworks-Recalls-Fireworks-Due-to-Violation-of-Federal-Standards-Explosion-and-Burn-Hazards",
+  "Title": "Grandma's Fireworks Recalls Fireworks Due to Violation of Federal Standards; Explosion and Burn Hazards",
+  "ConsumerContact": "Grandma\u2019s Fireworks collect at 765-732-3866 anytime or email at gmasheila@woh.rr.com and hannonc@aol.com for more information.",
+  "LastPublishDate": "2019-06-26T00:00:00",
+  "Products": [
+   {
+    "Name": "Fireworks",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 25,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture1_76.png",
+    "Caption": "Rise in the East"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture1A.png",
+    "Caption": "Rise in the East"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture2_60A.png",
+    "Caption": "Safe Cracker"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture3_39.png",
+    "Caption": "Angry Elf"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture4_23.png",
+    "Caption": "Mamba"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture5_14.png",
+    "Caption": "Crazy King Crackers"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture6_10.png",
+    "Caption": "POW!"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture7_7.png",
+    "Caption": "BANG"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture8_4.png",
+    "Caption": "Crazy Robot Flowers"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture9_1.png",
+    "Caption": "Frog Balls"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture10_1.png",
+    "Caption": "Dragon Artillery Shell (Assorted)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture11_0.png",
+    "Caption": "Small Festival Balls"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture12_0.png",
+    "Caption": "Cock Rises!"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture13_0.png",
+    "Caption": "Sammy\u2019s Best"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture14_0.png",
+    "Caption": "Catherine Catapult"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture15_0.png",
+    "Caption": "Heavy Bomber 5 Shot Roman Candles"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture16_0.png",
+    "Caption": "Multiple Rocket"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture17_0.png",
+    "Caption": "Talon Rockets"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture18_0.png",
+    "Caption": "Block Buster"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "An 8 year old boy and a 12 year old boy found the broken end of a Talon rocket, lit it and were hurt. The 8 year old boy lost his hand."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Grandma's Fireworks in West College Corner, Indiana from January 2009 through April 2019. There were no online sales.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled fireworks are overloaded with pyrotechnics intended to produce an audible effect, violating the federal regulatory standard for this product. Overloaded fireworks can result in a greater than expected explosion, posing explosion and burn hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled fireworks and return them to Grandma's Fireworks for a full refund"
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8589,
+  "RecallNumber": "19148",
+  "RecallDate": "2019-06-26T00:00:00",
+  "Description": "This recall involves 26 different consumer fireworks. The brand name, product name and the item number are printed on the outside wrapping of the firework. Brand Product Name Item Number Universal 1.25\" Artillery Shells W5016(B) Universal Blast From The Past UN5088 Universal Born Hero 25 Shot Cake BHL2325 Sin City Burning Aces 25 Shot Cake SC5G-1501 None Listed The Closer 100 Shot Cake None Listed None Listed Clown Shells W515B Clown Cock Rises Canister Shells FF5001 Clown Cock-a-doodle-doo 25 Shot Cake 8299 Hairy Beaver Crazy Labbits 36 Shot Cake HB2015 Clown Dead Heat 100 Shot Cake BHL999TS Hairy Beaver Defenders 49 Shot Cake BHL999T2 Universal Don't Panic Canister Shells BHL5135 Universal Godzilla Roars 36 Shot Cake UN2566 None Listed Horror Night Ball Shells W5007 (B) Clown IT Canister Shells DP5135 None Listed Magical Roman Candle WW2901(A-D) Universal Monkey Planet 100 Shot Cake UN2102 None Listed Rising Silver - Flowers in Spring 25 Shot Cake W2825 Yeti Shrooms 100 Shot Cake YT5026 Yeti Sky Jam 96 Shot Cake YT5026 Hairy Beaver Spider 25 Shot Cake HB2002 None Listed Sun Rise Crackers W010 None Listed Thunder King Single Shot Salutes None Listed None Listed Tommy Gun Single Shot Salute WG2018S Clown Top Notch Fireworks 64 Shot Cake BHL2064 Clown Tsunami Alert 100 Shot Cake 8670",
+  "URL": "https://www.cpsc.gov/Recalls/2019/GS-Fireworks-Recalls-Fireworks-Due-to-Violation-of-Federal-Standards-Explosion-and-Burn-Hazards-Sold-Exclusively-at-GS-Fireworks",
+  "Title": "GS Fireworks Recalls Fireworks Due to Violation of Federal Standards; Explosion and Burn Hazards; Sold Exclusively at GS Fireworks",
+  "ConsumerContact": "GS Fireworks collect at 616-304-8800 anytime or email jewell.david@att.net for more information.",
+  "LastPublishDate": "2019-06-26T00:00:00",
+  "Products": [
+   {
+    "Name": "Fireworks",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 260"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture1[1]_0.png",
+    "Caption": "1.25\" Artillery Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture2[1]_0.png",
+    "Caption": "Blast from the Past Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture3[1]_0.png",
+    "Caption": "Born Hero 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture4[1]_0.png",
+    "Caption": "Burning Aces 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture5[1]_0.png",
+    "Caption": "The Closer 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture6[1]_0.png",
+    "Caption": "Clown Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture7[1]_0.png",
+    "Caption": "Cock Rises Canister Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture8[1]_0.png",
+    "Caption": "Cock-a-doodle-doo 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture9[1]_0.png",
+    "Caption": "Crazy Labbits 36 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture10[1]_0.png",
+    "Caption": "Dead Heat 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture11[1]_0.png",
+    "Caption": "Defenders 49 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture12[1]_0.png",
+    "Caption": "Don\u2019t Panic Canister Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture13[1]_0.png",
+    "Caption": "Godzilla Roars 36 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture14[1]_0.png",
+    "Caption": "Horror Night Ball Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture15[1]_0.png",
+    "Caption": "IT Canister Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture16[1]_0.png",
+    "Caption": "Magical Roman Candle"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture17[1]_0.png",
+    "Caption": "Monkey Planet 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture18[1]_0.png",
+    "Caption": "Rising Silver \u2013 Flowers in Spring 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture19[1]_0.png",
+    "Caption": "Shrooms 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture20[1]_0.png",
+    "Caption": "Sky Jam 96 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture21[1]_0.png",
+    "Caption": "Spider 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture22[1]_0.png",
+    "Caption": "Sun Rise Crackers"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture23[1].png",
+    "Caption": "Thunder King Single Shot Salutes"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture24[1].png",
+    "Caption": "Tommy Gun Single Shot Salute"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture25[1].png",
+    "Caption": "Top Notch 64 Shot Cake"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Exclusively at GS Fireworks in Wyoming, Michigan from March 2018 through May 2018 for between $10 and $125.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled fireworks are overloaded with pyrotechnics intended to produce an audible effect, violating the federal regulatory standard for this product. Overloaded fireworks can result in a greater than expected explosion, posing explosion and burn hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled fireworks and return them to GS Fireworks for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8591,
+  "RecallNumber": "19150",
+  "RecallDate": "2019-06-26T00:00:00",
+  "Description": "This recall involves the G-Force Artillery Shells packaged in a box of six with the tube included. The tube contains the G-Force logo in red and yellow. The shells are about 5 inches long, 2 inches in diameter, and are covered in a blue wrapping.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Keystone-Recalls-G-Force-Fireworks-Due-to-Violation-of-Federal-Standard-Explosion-and-Burn-Hazards",
+  "Title": "Keystone Recalls G-Force Fireworks Due to Violation of Federal Standard; Explosion and Burn Hazards",
+  "ConsumerContact": "Keystone collect at 717-299-3180 from 9 a.m. to 9 p.m. ET, Monday through Friday, email at info@keystonefireworks.com or online at www.keystonefireworks.com and click on News and then Product Recall Notice for more information.",
+  "LastPublishDate": "2019-06-26T00:00:00",
+  "Products": [
+   {
+    "Name": "G-Force Artillery Shell Fireworks",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,660"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_24.png",
+    "Caption": "Recalled G-Force Fireworks"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Liuyang Sunwing Import & Export Co Ltd., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Keystone Fireworks locations from November 2018 through May 2019 for about $60.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Keystone Importing & Sales LLC, of Lancaster, Pa.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [
+   {
+    "Name": "Keystone Importing & Sales LLC, of Lancaster, Pa.",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled fireworks are overloaded with pyrotechnics intended to produce an audible effect, violating the federal regulatory requirements for this product. Overloaded fireworks can result in a greater than expected explosion, posing explosion and burn hazards to consumers. The fireworks are banned hazardous substances and are prohibited from being sold under the Federal Hazardous Substances Act (FHSA).",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled fireworks and return them to the place of purchase for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8590,
+  "RecallNumber": "19149",
+  "RecallDate": "2019-06-26T00:00:00",
+  "Description": "This recall involves 22 different consumer fireworks. The brand name, product name and the item number are printed on the outside wrapping of the firework. Brand Product Name Item Number Clown Dog Rules 30 Shot Cake PWF630 Clown Bite Me 25 Shot Cake CL2625 Clown Buster Sword 100 Shot Cake N/A Clown Echo Of Freedom 25 Shot Cake BHL999T2 Clown Man's Best Friend Fireworks Cake PWF680 Clown No Fooling Around 130 Shot Cake CL2330 Clown Top Notch Fireworks Cake BHL2064 Clown Dog Don't Stop Barking Artillery Shell 24 Pack KK5032 Clown Wonder of Galaxy 100 Shot Cake CL2103 None listed Horror Night Artillery 6 Pack W5007 Thunder Star American Hero 88 Shot Cake CL2888 Thunder Star Romantic Aliens 100 Shot Cake N/A Thunder Star Three's A Charm Artillery Shell 6 Pack 5013B Universal Desperate Attempt 100 Shot Cake UN2033 Universal Monkey Business 100 Shot Cake UN2101 Universal Monkey Go Ape 100 Shot Cake UN2100 Universal Monkey's Revenge 25 Shot Cake BHL2126 Universal Outcast 49 Shot Cake QS2149 Universal Godzilla Roars 36 Shot Cake UN2566 Universal Monkey Planet 100 Shot Cake UN2102 Universal 1.25 inch Artillery shell 18 Pack W5016B Windmill Double Nuts and Triple Ripples Artillery Shell 24 Pack W5036B",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Patriot-Pyrotechnics-Bills-Fireworks-Recalls-Fireworks-Due-to-Violation-of-Federal-Standards-Explosion-and-Burn-Hazards-Sold-Exclusively-at-Patriot-Pyrotechnics",
+  "Title": "Patriot Pyrotechnics/Bill's Fireworks Recalls Fireworks Due to Violation of Federal Standards; Explosion and Burn Hazards; Sold Exclusively at Patriot Pyrotechnics",
+  "ConsumerContact": "Bill\u2019s Fireworks collect at 616-527-1337 anytime or email fireworks@casair.net for more information.",
+  "LastPublishDate": "2019-06-26T00:00:00",
+  "Products": [
+   {
+    "Name": "Fireworks",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 11,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture1[1].png",
+    "Caption": "Dog Rules 30 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture2[1].png",
+    "Caption": "American Hero 88 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture3[1].png",
+    "Caption": "Bite Me 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture4[1].png",
+    "Caption": "Buster Sword 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture5[1].png",
+    "Caption": "Desperate Attempt 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture6[1].png",
+    "Caption": "Echo Of Freedom 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture7[1].png",
+    "Caption": "Horror Night Artillery 6 Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture8[1].png",
+    "Caption": "Man\u2019s Best Friend Fireworks Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture9[1].png",
+    "Caption": "Monkey Business 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture10[1].png",
+    "Caption": "Monkey Go Ape 100 Shot"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture11[1].png",
+    "Caption": "Monkey\u2019s Revenge 25 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture12[1].png",
+    "Caption": "No Fooling Around 130 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture13[1].png",
+    "Caption": "Outcast 49 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture14[1].png",
+    "Caption": "Romantic Aliens 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture15[1].png",
+    "Caption": "Three's A Charm Artillery Shell 6 Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture16[1].png",
+    "Caption": "Top Notch Fireworks Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture17[1].png",
+    "Caption": "Wonder of Galaxy 100 Shot Cake"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture18[1].png",
+    "Caption": "Dog Won\u2019t Stop Barking Artillery Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture19[1].png",
+    "Caption": "Godzilla Roars"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture20[1].png",
+    "Caption": "1.25\" Artillery Shells"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture21[1].png",
+    "Caption": "Monkey Planet"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture22[1].png",
+    "Caption": "Double Nuts and Triple Ripples"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Exclusively at Patriot Pyrotechnics in Sheridan, Michigan from January 2017 through July 2018 for between $100 and $125.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Patriot Pyrotechnics LLC/Bill's Fireworks, of Sheridan, Michigan",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled fireworks are overloaded with pyrotechnics intended to produce an audible effect, violating the federal regulatory standard for this product. Overloaded fireworks can result in a greater than expected explosion, posing explosion and burn hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled fireworks and return them to Patriot Pyrotechnics/Bill's Fireworks for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8586,
+  "RecallNumber": "19145",
+  "RecallDate": "2019-06-25T00:00:00",
+  "Description": "This recall involves QTOP WL100 and WL300R LED work lamps/LED Heavy Duty Rough Service bulbs used in incandescent trouble lights. QTOP, the model/serial Numbers WL100 and WL 300R, and date codes 1902/0518 can be found on the top at the back side of the bulb.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/QTOP-USA-Recalls-LED-Work-Light-Replacement-Bulbs-Due-to-Fire-Hazard",
+  "Title": "QTOP USA Recalls LED Work Light Replacement Bulbs Due to Fire Hazard",
+  "ConsumerContact": "QTOP USA at 800-859-0889 from 9 a.m. to 5 p.m. ET Monday through Friday, or online at www.qtoplighting.com and click on the \u201cContact Us\u201d tab for more information or email at info@qtoplighting.com.",
+  "LastPublishDate": "2019-06-25T00:00:00",
+  "Products": [
+   {
+    "Name": "LED Work Light Replacement Bulbs",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 5,600"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_22.png",
+    "Caption": "Recalled LED work lamps"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_17.png",
+    "Caption": "Packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/4_12.png",
+    "Caption": "Packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/5_6.png",
+    "Caption": "Product label"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/6_4.png",
+    "Caption": "Product label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "QTOP has received five incidents of smoking and fire from the LED bulbs. No injuries or property damage have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Ningbo QTOP IMP & EXP CO. LTD , of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Econ O Line Products and Orgill Dealer Market trade shows from October 2017 through July 2018 for about $20.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "QTOP USA INC., of Artesia, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The LED replacement bulbs can overheat due to an electrical malfunction, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled LED replacement bulbs, discard them and contact QTOP USA for instructions on receiving a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8587,
+  "RecallNumber": "19146",
+  "RecallDate": "2019-06-25T00:00:00",
+  "Description": "This recall involves West Marine Deck chairs and Comfort Plus Deck Crew chairs. The folding deck chair has metal legs, light-colored wood armrests and blue back-pack style straps. \"West Marine\" is printed on the side of the wood armrest. The corners of each leg have white plastic feet. The seat and back are covered in light blue and navy blue nylon fabric. The back can be adjusted to various angles. Model/SKU numbers \"18766972\" and \"19268135\" are printed on a coated paper tag attached to the chair frame.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/West-Marine-Recalls-Folding-Deck-Chairs-Due-to-Fall-and-Injury-Hazards",
+  "Title": "West Marine Recalls Folding Deck Chairs Due to Fall and Injury Hazards",
+  "ConsumerContact": "West Marine at 877-579-1550 from 8 a.m. to 5 p.m. ET Monday through Friday, email at WMARPARTS@westfieldoutdoors.com or online at www.westmarine.com and click Product recalls, then click West Marine Deck Chair for more information.",
+  "LastPublishDate": "2019-06-25T00:00:00",
+  "Products": [
+   {
+    "Name": "West Marine Deck chairs and Comfort Plus Deck Crew folding chairs",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 11,600"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_23.png",
+    "Caption": "Wooden armrest on folding chair"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_20.png",
+    "Caption": "Lock nut that connects the arm rest to the chair"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_18.png",
+    "Caption": "West Marine Deck and Comfort Plus Deck Crew folding chair"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Westfield Outdoors Inc., of Indianapolis, Ind.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "West Marine stores nationwide and online at www.westmarine.com from January 2018 through May 2019 for about $100.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "West Marine, of Watsonville, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The lock nut that connects the arm rest to the chair can loosen, posing fall and injury hazards to the user.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled chairs and contact the firm for a free repair parts kit."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8583,
+  "RecallNumber": "19140",
+  "RecallDate": "2019-06-21T00:00:00",
+  "Description": "This recall involves the Profusion Heat electric garage heaters with model number HA22-48M. The heaters are red, have a grill on the front and a handle on the top. They measure about 13 inches high and 10 inches wide. The label, located on the back of the heater, contains the model number. The thermostat control is located at the bottom of the heater on the back.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/H-E-Industrial-Recalls-Electric-Garage-Heaters-Due-to-Fire-Hazard",
+  "Title": "H.E. Industrial Recalls Electric Garage Heaters Due to Fire Hazard",
+  "ConsumerContact": "H.E. Industrial toll-free at 888-538-0082 Monday through Friday from 9 a.m. ET to 5 p.m. ET, email at service@hena.ca or online at https://www.home-easy.ca/ and click on Recall Information for more information.",
+  "LastPublishDate": "2019-06-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Electric garage heaters",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 8,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.07.59 AM.png",
+    "Caption": "Recalled Profusion Heat HA22-48M electric heater front"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.08.05 AM.png",
+    "Caption": "Recalled Profusion Heat HA22-48M electric heater back"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.08.13 AM.png",
+    "Caption": "Label on back of recalled electric heater"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported in the United States."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Zhilang Electrical Co., Ltd., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Menards and Northern Tool stores and online at www.menards.com and www.northerntool.com from August 2014 through March 2019 for about $100.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Northern Tool and H.E. Industrial, of Canada",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The heating element can overheat, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled heaters. Contact H.E. Industrial to get a full refund or return the heaters to a Northern Tool store for a full refund or a gift certificate for heaters purchased at Northern Tool stores. For heaters purchased at Menards, contact H.E. Industrial for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8584,
+  "RecallNumber": "19141",
+  "RecallDate": "2019-06-21T00:00:00",
+  "Description": "This recall involves \"-IV\" Intelligent photoelectric smoke sensors sold with fire alarm systems installed primarily in commercial buildings; not sold to retailers or consumers. The smoke sensors are round, ivory in color, and measure four inches in diameter. The model number, date codes and Honeywell or Notifier are printed on the back label of the smoke sensor. The smoke sensors have the following brand names, model numbers, date codes, and configuration. Brand Model Date code range Operating mode Connected to Panels Gamewell-FCI ASD-PL3-IV 8034 to 9013 CLIP S3 series and E3 series ASD-PL3R-IV ASD-PTL3-IV Notifier FSP-951-IV NFS-3030 and NFS2-3030 FSP-951R-IV FSP-951T-IV",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Honeywell-Recalls-Gamewell-FCI-and-Notifier-Photoelectric-Smoke-Sensors-Sold-with-Fire-Alarm-Systems-Due-to-Failure-to-Alert-of-a-Fire",
+  "Title": "Honeywell Recalls Gamewell-FCI and Notifier Photoelectric Smoke Sensors Sold with Fire Alarm Systems Due to Failure to Alert of a Fire",
+  "ConsumerContact": "Gamewell-FCI at 800-633-1311 from 7 a.m. to 7 p.m. ET Monday through Friday or online at www.gamewell-fci.com and click on \"Safety Bulletin\" or contact Notifier at 800-289-3473 from 7 a.m. to 7 p.m. ET Monday through Friday or online at hwll.co/CPSCsafetyFSP-951-IV.",
+  "LastPublishDate": "2019-06-21T00:00:00",
+  "Products": [
+   {
+    "Name": "\"-IV\" Intelligent photoelectric smoke sensors sold with fire alarm systems",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 22,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.16.36 AM.png",
+    "Caption": "Recalled \"-IV\" Intelligent Photoelectric Smoke Sensor"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.16.45 AM.png",
+    "Caption": "Recalled \"-IV\" Intelligent Photoelectric Smoke Sensor"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.18.03 AM.png",
+    "Caption": "Example product label indicating data code location"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 11.18.15 AM.png",
+    "Caption": "Example carton label indicating data code location"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Honeywell International Inc., of Northford, Conn.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Gamewell-FCI and Notifier distributors nationwide between March 2018 and January 2019 for about $115.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Mexico"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The photoelectric smoke sensor can malfunction and cause the fire alarm system to fail to alert occupants in commercial buildings of a fire.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately contact Gamewell-FCI or Notifier to receive a free replacement photoelectric smoke sensor."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 8585,
+  "RecallNumber": "19142",
+  "RecallDate": "2019-06-21T00:00:00",
+  "Description": "This recall involves Ranee's 100% viscose sheer beach and pool tunic styled cover-up. The cover-up is tan and cream in color. The neckline, arm openings and front hem of the cover-up are embellished with gold sequins and tan thread. The neck label states \"Ranee's.\" The cover-up was sold in size XXL.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Ranees-Recalls-Womens-Beach-Cover-ups-Due-to-Violation-of-Federal-Flammability-Standard",
+  "Title": "Ranee's Recalls Women's Beach Cover-ups Due to Violation of Federal Flammability Standard",
+  "ConsumerContact": "Ranee\u2019s toll-free at 888-266-0941 from 8:30 a.m. to 5:30 p.m. ET Monday through Friday email at ranees2@aol.com or online at www.ranees.miami and click on \u201cProduct Safety Recall\u201d for more information at the bottom of the page.",
+  "LastPublishDate": "2019-06-21T00:00:00",
+  "Products": [
+   {
+    "Name": "Women's beach cover-ups",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 55"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 8.39.08 AM.png",
+    "Caption": "Recalled Ranee\u2019s beach cover up"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 8.39.16 AM.png",
+    "Caption": "Ranee\u2019s beach cover up size XXL"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-06-21 at 8.39.25 AM.png",
+    "Caption": "Ranee\u2019s beach cover up label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Ranee's retail location in Miami from August 2015 through April 2019 for about $40.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Ranee's, of Miami, Fla.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "India"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The women's beach cover-up fails to meet the flammability standards for clothing textiles, posing a risk of burn injuries to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the beach cover-ups and contact Ranee's for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8582,
+  "RecallNumber": "19139",
+  "RecallDate": "2019-06-20T00:00:00",
+  "Description": "This recall involves Hunter Brunswick ceiling fan models 52262, 52263, 54178, 54179, 54184, 54185. The model number can be found on a label on top of the motor housing. The recalled ceiling fans have three or four lights. The fans have four blades and range from 44 inches to 60 inches in blade span. They were sold in the following colors: white motor housing with white blades on one side and gray oak blades on the other side; black (natural iron) motor housing with gray oak blades on one side and aged oak blades on the other side.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Hunter-Fan-Recalls-Brunswick-Three-and-Four-Light-Ceiling-Fans-Due-to-Shock-Hazard",
+  "Title": "Hunter Fan Recalls Brunswick Three and Four Light Ceiling Fans Due to Shock Hazard",
+  "ConsumerContact": "Hunter toll-free at 866-326-2003 from 8 a.m. to 4:30 p.m. CT Monday through Friday or online at www.hunterfan.com and click on the \u201cRecall\u201d link at the bottom of the page for more information.",
+  "LastPublishDate": "2019-06-20T00:00:00",
+  "Products": [
+   {
+    "Name": "Hunter Brunswick three and four light ceiling fans",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 7,800"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fan1_1.png",
+    "Caption": "Hunter fan 52262 Brunswick 44\" with 3 lights in white housing"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fan2.jpg",
+    "Caption": "Hunter fan 52262 Brunswick 44\" with 3 lights in black (natural iron) housing"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fan3.jpg",
+    "Caption": "Hunter fan 54184 Brunswick 52\" with 4 lights in white housing"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fan4.jpg",
+    "Caption": "Hunter fan 54185 Brunswick 52\" with 4 lights in black (natural iron) housing"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fan5.jpg",
+    "Caption": "Hunter fan 54178 Brunswick 60\" with 4 lights in white housing"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/fan6.jpg",
+    "Caption": "Hunter fan 54179 Brunswick 60\" with 4 lights in black (natural iron) housing"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Hunter has received one report of damaged light kit wires. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Lighting store showrooms nationwide and online e-commerce retailers where ceiling fans are sold from November 2017 through May 2019 for between $150 and $300.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Hunter Fan Company, of Memphis, Tenn.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The light kit wires can be damaged, posing an electric shock hazard to the consumer.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled ceiling fans and contact Hunter to receive a free replacement light kit."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8581,
+  "RecallNumber": "19754",
+  "RecallDate": "2019-06-18T00:00:00",
+  "Description": "This recall involves corner curio cabinets made from poplar solid and veneer and sold in either a white or dark brown finish. The model numbers are 115-P021664 (white finish) and 115-P021665 (brown finish), and the SKU numbers are 0-4000-3512 (white finish) and 0-4000-3513 (brown finish), both of which can be found on one of the back panels of the corner curio. The curio has four glass shelves with mirrored panels and is designed to be placed in a corner and mounted to the wall with the supplied hardware. The cabinet measures 74.75 inches tall and weighs about 40 pounds.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Home-Meridian-Recalls-Corner-Curio-Cabinets-Due-to-Tip-Over-and-Entrapment-Hazards-Sold-Exclusively-at-Havertys-Recall-Alert",
+  "Title": "Home Meridian Recalls Corner Curio Cabinets Due to Tip-Over and Entrapment Hazards; Sold Exclusively at Havertys (Recall Alert)",
+  "ConsumerContact": "Havertys toll-free at 888-428-3789 from 8 a.m. to 7 p.m. ET Monday through Saturday or online at www.havertys.com and click on Copeland Corner Curios under Customer Service at the bottom of the Home Page for more information. Home Meridian is contacting purchasers directly.",
+  "LastPublishDate": "2019-06-18T00:00:00",
+  "Products": [
+   {
+    "Name": "Copeland Corner Curios",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 520"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_21.png",
+    "Caption": "White Copeland Corner Curios"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_23.jpg",
+    "Caption": "Brown Copeland Corner Curios"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Home Meridian has received one report of a tip-over incident involving a child. The curio was not mounted to the wall, and the child suffered some bruising to his leg."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Havertys stores in 16 states and online at www.havertys.com from December 2018 through March 2019 for about $500.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Home Meridian International, of High Point, N.C.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Vietnam"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled curio cabinets are unstable if they are not anchored to the wall, posing serious tip-over and entrapment hazards that can result in death or injuries to children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled products and contact Havertys to schedule a free pick-up of the corner curio in exchange for a full refund or store credit."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8580,
+  "RecallNumber": "19753",
+  "RecallDate": "2019-06-13T00:00:00",
+  "Description": "This recall involves all model year 2016 through 2019 Honda Pioneer 1000 side-by-side vehicles. The recalled vehicles were sold in various colors including: red, blue, green, gray and yellow. The name \"HONDA\" is on the front, sides and the rear of the vehicle. The model name Pioneer 1000 is printed on a label located on both sides of the vehicle, near the rear. The serial number (VIN #) is stamped in the frame at the left rear, below the tilt-up bed/seat. The following model numbers and serial number ranges are being recalled: MY Model 2016 SXS10M3* 2016 SXS10M5* 2017 SXS10M3* 2017 SXS10M5* 2018 SXS10M3* 2018 SXS10M5* 2019 SXS10M3* 2019 SXS10M5*",
+  "URL": "https://www.cpsc.gov/Recalls/2019/American-Honda-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+  "Title": "American Honda Recalls Recreational Off-Highway Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at http://powersports.honda.com/ and click on \u201cRecall Information\u201d at the bottom of the page for more information.",
+  "LastPublishDate": "2019-06-13T00:00:00",
+  "Products": [
+   {
+    "Name": "Recreational off-highway vehicles (ROVs)",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 82,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_20.png",
+    "Caption": "2016-2019 Model Year Honda Pioneer 1000 5P"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_19.png",
+    "Caption": "2016-2019 Model Year Honda Pioneer 1000 3P"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_11.jpg",
+    "Caption": "Name plate and VIN number location"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/4_11.png",
+    "Caption": "VIN number location"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/5_4.jpg",
+    "Caption": "Name plate location"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 15 reports of the throttle pedal sticking in the open position, including six crashes, resulting in a report of a concussion and a broken nose."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "American Honda Motor Company Inc., of Torrance, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Authorized Honda Powersports dealers nationwide from August 2015 through March 2019 for between $14,000 and $22,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The throttle pedal can stick in the open position, posing crash and injury hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled ROVs and contact an authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair. Honda is contacting all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8578,
+  "RecallNumber": "19136",
+  "RecallDate": "2019-06-12T00:00:00",
+  "Description": "This recall involves the Hayward UHXNEGVT15001 Negative Pressure 6-inch Vent Kit for pool heaters. The vent kit is used exclusively on the Hayward H500FD Gas Heaters. The kit includes the following: one vent pipe adapter for negative pressure galvanized vent pipe, one flue cover plate with hole for vent, #10 sheet metal screws, vent pressure switches, vent pressure switch tubing and vent pressure switch jumper wire. Only Hayward H500FD Gas Heaters that are installed indoors and use 6-inch negative pressure galvanized vent piping are affected by this recall. The name Hayward is stamped into the furnace housing above the water pipes. The model and serial number H500FD is located to the left of the water pipes.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Hayward-Industries-Recalls-Pool-Heater-Vent-Kits-Due-to-Carbon-Monoxide-Poisoning-Hazard",
+  "Title": "Hayward Industries Recalls Pool Heater Vent Kits Due to Carbon Monoxide Poisoning Hazard",
+  "ConsumerContact": "Hayward Industries toll-free at 888-847-8717 from 8 a.m. to 6 p.m. Monday through Friday, or online at http://www.recallrtr.com/haywardventkit, or online at www.hayward-pool.com then click on the Recall link at the top of the page for more information.",
+  "LastPublishDate": "2019-06-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Hayward Vent Kits",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 280 (in addition, 7 units were sold in Canada and 13 units were sold in Mexico)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/70149r-eng.php"
+   },
+   {
+    "URL": "https://www.gob.mx/profeco/documentos/alertas-al-consumidor-2019"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_18.png",
+    "Caption": "UHXNEGVT15001 Negative Pressure 6 inch Vent Kit"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_17.png",
+    "Caption": "Affected - H500FD with Vertical vent pipe"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_15.png",
+    "Caption": "H500FD Model Number Location"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/4_9.png",
+    "Caption": "Horizontal vent pipe- Please Call"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Hayward Industries Inc, of Nashville, Tenn.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Pool equipment distributors nationwide and online at poolsupply4less.com and tcpoolequipment.com from March 2015 through April 2019 for about $265.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled vent kits installed on gas pool heaters are not the proper size and can allow carbon monoxide to leak, posing a CO poisoning hazard to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately turn off the pool heater and contact Hayward for free replacement and installation of a new vent kit. Do not use your pool heater until a new vent kit is installed."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 8579,
+  "RecallNumber": "19137",
+  "RecallDate": "2019-06-12T00:00:00",
+  "Description": "This recall involves Mares XR buoyancy compensation vests used for scuba diving. The following model numbers and model names are included in this recall. The serial number is printed on a rectangular label on the inflator body. This recall affects serial numbers from 8A-02001 to 8A-07630. Model # Description / Model Name Serial Numbers 417511 Donut Bladder Single Tank - XR Line 8A-02001 through 8A-07630 417512 Donut Bladder Twin Tank - XR Line 417536 Sidemount Pure Light Bladder - XR Line 417539 Red Devil Single Backmount set - XR Line 417540 Red Devil Single Backmount set SSI - XR Line 417547 Pure Light Sidemount compl.set - XR Line 417550 Silver Knight Single BM set - XR Line 417551 Blue Battle Single Backmount set - XR Line",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Mares-Recalls-Buoyancy-Compensation-Vests-Due-to-Drowning-Hazard",
+  "Title": "Mares Recalls Buoyancy Compensation Vests Due to Drowning Hazard",
+  "ConsumerContact": "Mares at 800-874-3236 between 9 a.m. and 5 p.m. ET Monday through Friday, or e-mail Recall@us.mares.com, or online at https://www.mares.com/us-US/sports/extended-range/recall/, or go to the Mares USA main website, click or hover on \u201cScuba Diving\u201d on the gray toolbar at the top of the page, then click on \u201cRecall\u201d for more information.",
+  "LastPublishDate": "2019-06-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Mares XR buoyancy compensation vests",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 600"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_19.png",
+    "Caption": "Close-up of XR inflator (serial number is in rectangular label)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_18.png",
+    "Caption": "417551 \u2013 Blue Battle Backmount set \u2013 XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_16.png",
+    "Caption": "417550 \u2013 Silver Knight BM set \u2013 XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/4_10.png",
+    "Caption": "417547 \u2013 Pure Light Sidemount compl.set \u2013 XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/5_5.png",
+    "Caption": "417540 \u2013 Red Devil Single Backmount set SSI \u2013 XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/6_3.png",
+    "Caption": "417539 \u2013 Red Devil Single Backmount set - XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/7_3.png",
+    "Caption": "417536 \u2013 Sidemount Pure Light Bladder \u2013 XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/8_2.png",
+    "Caption": "417511 \u2013 Donut Bladder Single Tank \u2013 XR Line"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/9_1.png",
+    "Caption": "417512 \u2013 Donut Bladder Twin Tank \u2013 XR Line"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received one report of a loose deflator button. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Specialized dive shops and online from June 2018 through March 2019 for about $350 to $825.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Mares, of Boca Raton, Fla.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Italy"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The deflation button can come unscrewed and result in loss of buoyancy, posing a drowning hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled buoyancy compensation vests and take them to a Mares scuba dealer for a free repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8577,
+  "RecallNumber": "19752",
+  "RecallDate": "2019-06-11T00:00:00",
+  "Description": "This recall involves AmazonBasics 1500 watt ceramic space heaters. Two models (ASIN B074MR2HGM and ASIN B074MWRLZM) have oscillating fans and the others (ASIN B074MX8VNR and ASIN B074MWKSLX) do not. The heaters were sold in black and silver colors. The AmazonBasics logo is printed on the front of the units. The following ID numbers are printed on the label on the back of the units: B074MWKSLX, B074MX8VNR, B074MR2HGM, B074MWRLZM.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Amazon-Recalls-AmazonBasics-Ceramic-Space-Heaters-Due-to-Fire-and-Burn-Hazards-Recall-Alert",
+  "Title": "Amazon Recalls AmazonBasics Ceramic Space Heaters Due to Fire and Burn Hazards (Recall Alert)",
+  "ConsumerContact": "Amazon at amazonspaceheaterrecall@amazon.com or toll-free at 888-280-4331. Amazon will send emails directly to all customers that purchased the impacted products with instructions on how to receive a full refund. Amazon will send the emails to the email address associated with the Amazon account that purchased the product.",
+  "LastPublishDate": "2019-06-11T00:00:00",
+  "Products": [
+   {
+    "Name": "AmazonBasics 1500 Watt Ceramic Space Heaters",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 377,000 (About 18,000 sold in Canada and 3,765 in Mexico)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/70141r-eng.php"
+   },
+   {
+    "URL": "https://www.gob.mx/profeco/documentos/alertas-al-consumidor-2019?state=published"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_17.png",
+    "Caption": "AmazonBasics 1500 Watt Ceramic Space Heater No. B074MWKSLX"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_16.png",
+    "Caption": "AmazonBasics 1500 Watt Ceramic Space Heater No. B074MX8VNR"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_14.png",
+    "Caption": "AmazonBasics 1500 Watt Ceramic Space Heater No. B074MR2HGM"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/4_8.png",
+    "Caption": "AmazonBasics 1500 Watt Ceramic Space Heater No. B074MWRLZM"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/5_4.png",
+    "Caption": "Location of Product ID number on label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Amazon received 25 reports in the United States and 5 reports in Canada of the ceramic heater overheating, burning, or sparking. Two of those reports included minor damage to power outlets. There were no injuries associated with the incidents. No incidents were reported in Mexico"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Ningbo Singfun Electric Appliance Co., Ltd., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Online at Amazon.com, Amazon.ca, Amazon.com.mx from October 2017 through March 2019 for between $25 and $35.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Amazon, of Seattle, Wash.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The heater can overheat, posing fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled heaters. All known purchasers are being contacted directly by the Amazon with full instructions on how to receive a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8576,
+  "RecallNumber": "19751",
+  "RecallDate": "2019-06-11T00:00:00",
+  "Description": "This recall involves the Cushy Form tri-fold folding mattress with storage & carry case. The folding mattress is white with lime green trim on the sides and was sold in a 31 inch width size. The folding mattress is 4 inches high when configured as a mattress. Cushy Form is written in green across the white mattress cover.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Cushy-Form-Recalls-Folding-Mattress-Due-to-Violation-of-Federal-Mattress-Flammability-Standard-Sold-Exclusively-at-Amazoncom-Recall-Alert",
+  "Title": "Cushy Form Recalls Folding Mattress Due to Violation of Federal Mattress Flammability Standard; Sold Exclusively at Amazon.com (Recall Alert)",
+  "ConsumerContact": "Cushy Form toll-free at 855-732-2929 from 9 a.m. to 5 p.m. MT Monday through Friday, email at recall@cushyform.com or online at www.cushyform.com and click on the Recall Notice tab at the top of the homepage for more information.",
+  "LastPublishDate": "2019-06-11T00:00:00",
+  "Products": [
+   {
+    "Name": "Cushy Form folding mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 2,300"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_23.jpg",
+    "Caption": "Recalled Cushy Form Tri-Fold Folding Mattress setup as extra seating."
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_21.jpg",
+    "Caption": "Recalled Cushy Form Tri-Fold Folding Mattress folded for storage."
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_10.jpg",
+    "Caption": "Recalled Cushy Form Tri-Fold Folding Mattress setup as a mattress."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Exclusively online at Amazon.com from September 2018 through March 2019 for about $109.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Mix Panda Ltd, dba Cushy Form, of Valley Cottage, New York",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The mattress fails to meet the mandatory federal flammability standard for mattresses, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled folding mattress and contact Cushy Form to receive a free fitted liner, including shipping, to cover the mattress and bring it into compliance with the federal standard. The firm is notifying all known purchasers directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8575,
+  "RecallNumber": "19135",
+  "RecallDate": "2019-06-11T00:00:00",
+  "Description": "This recall includes the Cat & Jack \"Lilia\" toddlers' unicorn rain boots in sizes 5-12. The boots are fuchsia with a white unicorn. The horn on the unicorn's head and mane on the back of the boot are fuchsia, orange, yellow, green, and blue. The model numbers are located on the inside tag of the boot. Model Number Product Name 093-10-4311 Cat & Jack \"Lilia\" Rain Boots Size 5 093-10-4312 Cat & Jack \"Lilia\" Rain Boots Size 6 093-10-4313 Cat & Jack \"Lilia\" Rain Boots Size 7 093-10-4314 Cat & Jack \"Lilia\" Rain Boots Size 8 093-10-4315 Cat & Jack \"Lilia\" Rain Boots Size 9 093-10-4316 Cat & Jack \"Lilia\" Rain Boots Size 10 093-10-4317 Cat & Jack \"Lilia\" Rain Boots Size 11 093-10-4318 Cat & Jack \"Lilia\" Rain Boots Size 12",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Target-Recalls-Toddler-Boots-Due-to-Choking-Hazard-19-135",
+  "Title": "Target Recalls Toddler Boots Due to Choking Hazard",
+  "ConsumerContact": "Target at 800-440-0680 from 7 a.m. to 8 p.m. CT, daily or online at www.target.com and click on \u201cRecalls\u201d at the bottom of the page, then on \u201cShoes\u201d for more information. Consumers can also click the \u201cProduct Recalls\u201d tab on Target\u2019s Facebook page for more information.",
+  "LastPublishDate": "2019-06-11T00:00:00",
+  "Products": [
+   {
+    "Name": "Cat & Jack \"Lilia\" Rain Boots",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 29,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_24.jpg",
+    "Caption": "Photo of the front view of the recalled Cat & Jack \"Lilia\" Rain Boots"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_22.jpg",
+    "Caption": "Photo of the label inside Cat & Jack \"Lilia\" Rain Boots"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Eleven consumers reported the unicorn's horn detached. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "CJCHT Groups LTD., of Hong Kong",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Target stores nationwide, online at Target.com, and on Google Express from January 2019 through April 2019 for about $20.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Target Corp., of Minneapolis, Minn.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The unicorn horn on the rain boot can detach, posing a choking hazard to young children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately take the recalled rain boots away from children and return them to any Target store for a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8574,
+  "RecallNumber": "19134",
+  "RecallDate": "2019-06-06T00:00:00",
+  "Description": "This recall involves XOP climbing sticks used to climb trees. The climbing sticks have XOP and model number XOP-LMO4-SR printed on the box. They were sold in sand ripple green color in a 4-pack. The climbing sticks measure about 36 inches tall and have three climbing steps.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Xtreme-Outdoor-Products-Recalls-Climbing-Sticks-Due-to-Fall-Hazard-and-Risk-of-Serious-Injury",
+  "Title": "Xtreme Outdoor Products Recalls Climbing Sticks Due to Fall Hazard and Risk of Serious Injury",
+  "ConsumerContact": "XOP toll-free at 877-544-6611 from 9 a.m. to 5 p.m. CT Monday through Friday, email at service@xopoutdoors.com or online at www.XOPoutdoors.com and click on \u201cAbout\u201d for more information.",
+  "LastPublishDate": "2019-06-06T00:00:00",
+  "Products": [
+   {
+    "Name": "Climbing Sticks",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,165"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_16.png",
+    "Caption": "Recalled XOP climbing stick attached to tree (sand ripple green color)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_15.png",
+    "Caption": "Recalled XOP climbing sticks (4-Pack)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_13.png",
+    "Caption": "Recalled XOP climbing stick (sand ripple green color)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "XOP has received two reports of injuries, including scrapes and bruises, a fractured foot and ribs."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Webb's Sporting Goods and TrailCam stores nationwide, Scheel's in Omaha, Neb. and Overland Park, Kan., and online at XOPoutdoors.com from November 2018 through December 2018 for about $170.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Xtreme Outdoor Products (XOP), of Dubuque, Iowa",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The climbing sticks can break due to a bolt failure on the center step, posing a fall hazard and risk of serious injury.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled climbing sticks and return them to Xtreme Outdoor Products (XOP) for a full refund or refund in the form of a store credit."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 8573,
+  "RecallNumber": "19132",
+  "RecallDate": "2019-06-05T00:00:00",
+  "Description": "This recall involves three-prong AC wall plug adapters included in the Apple World Travel Adapter Kit sold before February 2015. The kits contain three-prong and two-prong AC wall plug adapters that fit different electrical outlets worldwide. The recalled adapters were made for use primarily in the United Kingdom, Singapore, and Hong Kong and were also sold with Mac computers and iOS devices. The recalled three-prong AC wall plug adapters are white with no letters on the inside slot where it attaches to an Apple power adapter. Redesigned adapters are white with gray on the inside portion that attaches to the power adapter.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Apple-Recalls-Three-Prong-Wall-Plug-Adapters-Included-in-World-Travel-Adapter-Kit-Due-to-Risk-of-Electric-Shock",
+  "Title": "Apple Recalls Three-Prong Wall Plug Adapters Included in World Travel Adapter Kit Due to Risk of Electric Shock",
+  "ConsumerContact": "Apple at 800-275-2273 anytime, or online at www.apple.com, click on Support and then click on Apple Three-Prong AC Wall Plug Adapter Recall Program at the bottom of the page.",
+  "LastPublishDate": "2019-06-05T00:00:00",
+  "Products": [
+   {
+    "Name": "Apple AC World Travel Adapter Kits",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 814,000 (in addition, about 81,000 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/69690r-eng.php"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_22.jpg",
+    "Caption": "Apple World Travel Adapter Kit"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_0.PNG",
+    "Caption": "Recalled Three-Prong AC Wall Plug Adapter"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3.PNG",
+    "Caption": "Three-Prong AC Wall Plug Adapter Replacement"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Apple has received six reports from other countries of wall plug adapters breaking and consumers receiving shocks, including two reports of consumers who were medically evaluated and released without need for further medical treatment. No reports of incidents or injuries were reported by U.S. consumers."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Apple stores and other home electronics stores nationwide, and online at Apple.com from January 2003 through January 2015 for about $30.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Apple Inc., of Cupertino, Calif.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The three-prong AC wall plug adapters can break and expose the metal portion of the adapter, posing an electric shock risk.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled wall plug adapters and contact Apple for free replacement adapters."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ {
+  "RecallID": 8570,
+  "RecallNumber": "19131",
+  "RecallDate": "2019-06-04T00:00:00",
+  "Description": "This recall involves the small Stratton pendant light fixtures. The lights are suspended and provide task lighting and general illumination for both consumer and commercial applications. The UPC number is on the light fixture packaging, and the part number is located on a yellow sticker inside of the canopy of the fixture. The recalled small light fixture is 9.2 inches wide, and was sold with a glass shade (clear or smoke color). The recall involves the following item numbers and UPCs: Item Number UPC 700TDSTNPSCB-PAR 884655362979 700TDSTNPSKB-PAR 884655362986 700TDSTNPSCB-LED27 884655362993 700TDSTNPSKB-LED27 884655363006 700TDSTNPSCB-LED30 884655363013 700TDSTNPSKB-LED30 884655363020 700TDSTNPSCY-PAR 884655363099 700TDSTNPSKY-PAR 884655363105 700TDSTNPSCY-LED27 884655363112 700TDSTNPSKY-LED27 884655363129 700TDSTNPSCY-LED30 884655363136 700TDSTNPSKY-LED30 884655363143 700TDSTNPSCB 191963077083 700TDSTNPSCY 191963077090 700TDSTNPSKB 191963077106 700TDSTNPSKY 191963077113",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Generation-Brands-Recalls-Glass-Pendant-Light-Fixtures-Due-to-Risk-of-Injury",
+  "Title": "Generation Brands Recalls Glass Pendant Light Fixtures Due to Risk of Injury",
+  "ConsumerContact": "Tech Lighting toll-free at 888-475-1136 from 9 a.m. to 5 p.m. CT Monday through Friday or online at www.techlighting.com and click on the recall button at the bottom of the home page for more information.",
+  "LastPublishDate": "2019-06-04T00:00:00",
+  "Products": [
+   {
+    "Name": "Small Stratton glass pendant light fixtures",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,200 (in addition, 30 units were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/69985r-eng.php"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_15.png",
+    "Caption": "Small Stratton Pendant Smoke Glass"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_14.png",
+    "Caption": "Small Stratton Pendant Clear Glass"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received one report of the glass pendant detaching from the light fixture, resulting in injury to a bystander standing directly beneath it."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Guangzhou Xiongyi Precision Metalworking Co., Ltd., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Independent lighting retailers nationwide and online at build.com, Circa Lighting, Lightology, Lumens, Wayfair, and Y Lighting from January 2013 through December 2018 for between $385 and $525.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Tech Lighting LLC, a division of Generation Brands, of Skokie, Illinois",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [
+   {
+    "UPC": "884655362979"
+   },
+   {
+    "UPC": "884655362986"
+   },
+   {
+    "UPC": "884655362993"
+   },
+   {
+    "UPC": "884655363006"
+   },
+   {
+    "UPC": "884655363013"
+   },
+   {
+    "UPC": "884655363020"
+   },
+   {
+    "UPC": "884655363099"
+   },
+   {
+    "UPC": "884655363105"
+   },
+   {
+    "UPC": "884655363112"
+   },
+   {
+    "UPC": "884655363129"
+   },
+   {
+    "UPC": "884655363136"
+   },
+   {
+    "UPC": "884655363143"
+   },
+   {
+    "UPC": "191963077083"
+   },
+   {
+    "UPC": "191963077090"
+   },
+   {
+    "UPC": "191963077106"
+   },
+   {
+    "UPC": "191963077113"
+   }
+  ],
+  "Hazards": [
+   {
+    "Name": "The small glass pendant light fixtures can detach from their electrical cord, causing the fixture to fall unexpectedly, posing a risk of injury from impact.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately prevent people from going under the light fixture and contact Tech Lighting to receive a free repair kit. Consumers will need to schedule installation of the repair kit by a certified electrician, and Tech Lighting will reimburse the consumer for the service."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8572,
+  "RecallNumber": "19750",
+  "RecallDate": "2019-06-04T00:00:00",
+  "Description": "This recall involves model year 2015 - 2019 Ranger EV recreational off-highway vehicles (ROVs) sold in avalanche gray and pursuit camo, which were produced between April 2014 and January 2019. The recalled vehicles have \"POLARIS\" printed on the front grille and beneath the doors; and \"RANGER\" printed on the rear fenders. The vehicle identification number (VIN) and model number can be found on a label affixed to the vehicle frame in the left front wheel well. VIN numbers included in this recall are at www.polaris.com.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Polaris-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls Recreational Off Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \u201cOff Road Safety Recalls\u201d for more information. In addition, check your vehicle identification number (VIN) on the \u201cProduct Safety Recalls\u201d page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2019-06-04T00:00:00",
+  "Products": [
+   {
+    "Name": "Model Year 2015 - 2019 Polaris RGR EV recreational off-highway vehicles (ROVs)",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 3,900"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3_12.png",
+    "Caption": "2019 Polaris Ranger EV in Avalanche Gray"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Polaris has received eight reports of the recalled ROVs accelerating unexpectedly, due to an incorrectly wired harness. There was one reported incident with two injuries, which happened outside of the U.S."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Polaris Industries Inc., of Medina, Minn.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Polaris dealers nationwide from February 2014 through January 2019 for about $11,900.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Polaris Industries Inc., of Medina, Minn.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   },
+   {
+    "Country": "Mexico"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "An incorrectly wired chassis harness can cause an incorrect throttle control signal to the electric drive motor, which can cause the vehicle to accelerate unexpectedly, posing a crash hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled ROVs and contact a Polaris dealer to schedule a free repair. Polaris is contacting all registered owners directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ {
+  "RecallID": 8571,
+  "RecallNumber": "19749",
+  "RecallDate": "2019-06-04T00:00:00",
+  "Description": "This recall involves Model Year 2019 RZR XP Turbo S recreational off-highway vehicles (ROVs), with model numbers Z19VPL92AK, Z19VPL92AR, Z19VPL92BK, Z19VPL92BR. The vehicles were sold in blue and red. The vehicles have \"POLARIS\" stamped on the front grill, along the bottom edge of the passenger compartment and on the rear light assembly; \"TURBO S\" on the front fenders and \"POLARIS RZR\" on the rear fenders. The vehicle identification number (VIN) and model number can be found on a label affixed to the vehicle frame in the left front wheel well.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Polaris-Recalls-RZR-Recreational-Off-Highway-Vehicles-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+  "Title": "Polaris Recalls RZR Recreational Off-Highway Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \u201cOff Road Safety Recalls\u201d for more information. In addition, check your vehicle identification number (VIN) on the Product Safety Recalls page to see if your vehicle is included in any recalls",
+  "LastPublishDate": "2019-06-04T00:00:00",
+  "Products": [
+   {
+    "Name": "Model Year 2019 Polaris RZR XP 4 Turbo S recreational off-highway vehicles (ROVs)",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,200"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/1_21.jpg",
+    "Caption": "Recalled 2019 Polaris RZR XP 4 Turbo S \u2013 blue"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/2_20.jpg",
+    "Caption": "Recalled 2019 Polaris RZR XP 4 Turbo S \u2013 red"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Polaris has received 11 reports of brake failures, resulting in one crash and one rollover incident. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Polaris Industries Inc., of Medina, Minn.",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Polaris dealers nationwide from December 2017 through January 2019 for about $28,400.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Polaris Industries Inc., of Medina, Minn.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Mexico"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The brakes can fail, posing crash and injury hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled ROVs and contact a Polaris dealer to schedule a free repair. Polaris is contacting all registered owners directly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ }
+]

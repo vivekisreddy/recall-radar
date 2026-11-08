@@ -1,0 +1,16 @@
+{
+  "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+  "NHTSACampaignNumber": "20V373000",
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "ReportReceivedDate": "24/06/2020",
+  "Component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+  "Summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and 2020 RAV4 Hybrid vehicles equipped with electric power steering (EPS).  Water may enter through the steering gear box cover and cause a loss of electric power steering assist.",
+  "Consequence": "A loss of power steering assist could increase steering effort at low vehicle speeds, increasing the risk of a crash.",
+  "Remedy": "Toyota will notify owners, and dealers will replace the power steering gear box, free of charge.  The recall began August 17, 2020.  Owners may contact Toyota customer service at 1-888-270-9371.  Toyota's number for this recall is 20TB11 / 20TA11.",
+  "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+  "ModelYear": "2019",
+  "Make": "TOYOTA",
+  "Model": "RAV4"
+}

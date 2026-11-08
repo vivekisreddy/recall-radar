@@ -1,0 +1,16 @@
+{
+  "Manufacturer": "Honda (American Honda Motor Co.)",
+  "NHTSACampaignNumber": "18V663000",
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "ReportReceivedDate": "27/09/2018",
+  "Component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+  "Summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2018 Honda Civic and CR-V vehicles.  The magnet that controls the\r\ntorque sensor output signal for the electronic power steering system may not be properly secured, allowing the magnet to become dislodged.  During a full lock turn, the dislodged magnet may cause steering assist to be applied in the opposite direction.",
+  "Consequence": "The unintended steering input reduces vehicle maneuverability and increases the risk of a crash.",
+  "Remedy": "Honda will notify owners, and dealers will replace the steering gearbox assembly, free of charge.  The recall began November 9, 2018.  Owners may contact Honda customer service at 1-888-234-2138.  Honda's numbers for this recall are C2N, P2O.",
+  "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+  "ModelYear": "2018",
+  "Make": "HONDA",
+  "Model": "CR-V"
+}

@@ -1,0 +1,17 @@
+{
+  "Manufacturer": "Chrysler (FCA US, LLC)",
+  "NHTSACampaignNumber": "26V363000",
+  "parkIt": false,
+  "parkOutSide": true,
+  "overTheAirUpdate": false,
+  "NHTSAActionNumber": "PE24024",
+  "ReportReceivedDate": "04/06/2026",
+  "Component": "STEERING:HYDRAULIC POWER ASSIST:PUMP",
+  "Summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2025 Jeep Wrangler, Wrangler 4XE, and Jeep Gladiator vehicles. The electric hydraulic power steering pump wiring may overheat and cause a vehicle fire, even when the vehicle is parked with the ignition in the \"Off\" position.",
+  "Consequence": "A vehicle fire increases the risk of injury.",
+  "Remedy": "Owners are advised to park outside and away from structures, until their vehicle is repaired. Dealers will inspect and replace the wiring and electric hydraulic power steering pump, as necessary, free of charge. Owner notification letters are expected to be mailed July 9, 2026. Owners may contact FCA US LLC customer service at 1-800-853-1403. FCA US LLC's number for this recall is 21D. The Vehicle Identification Numbers (VINs) involved in this recall will become searchable on NHTSA.gov on June 11, 2026.",
+  "Notes": null,
+  "ModelYear": "2021",
+  "Make": "JEEP",
+  "Model": "WRANGLER"
+}

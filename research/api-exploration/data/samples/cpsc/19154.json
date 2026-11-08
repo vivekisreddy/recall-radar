@@ -1,0 +1,91 @@
+{
+  "RecallID": 8595,
+  "RecallNumber": "19154",
+  "RecallDate": "2019-06-27T00:00:00",
+  "Description": "This recall involves Venus Simply3 disposable razors. The razors come in pink, purple, and yellow colors and were sold in two types of packages: a Venus Simply3 Disposable Razor 4-pack and a Daisy 12+1 Venus Simply3 Bonus Pack which included one free Venus Simply3 razor. The ten digit lot code can be found on the right or left side of the plastic package. The UPC number can be found inside the package adjacent to the bar code. Venus Simply3\" - 4 count pack razors Lot numbers: 9003A17400 and 9007A17400 UPC: 047400315358 Daisy 12 + 1 Venus Simply3 razors Lot number: 9009A17400 UPC: 047400300712",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Gillette-Recalls-Venus-Simply3-Disposable-Razors-Due-to-Laceration-and-Injury-Hazards",
+  "Title": "Gillette Recalls Venus Simply3 Disposable Razors Due to Laceration and Injury Hazards",
+  "ConsumerContact": "Gillette at 800-362-1258 from 9 a.m. to 6 p.m. ET Monday through Friday and 9 a.m. to 5 p.m. ET Saturday through Sunday or online at www.gillettevenus.com and click on Safety Notification for more information.",
+  "LastPublishDate": "2019-06-27T00:00:00",
+  "Products": [
+    {
+      "Name": "Venus Simply3 Disposable razors",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 87,000 (in addition, about 2,700 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/70219r-eng.php"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_25.jpg",
+      "Caption": "Venus Simply3 Disposable Razor – 4 count pack"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_24.jpg",
+      "Caption": "Daisy 12+1 Simply3 Bonus pack"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Gillette has received one report of a consumer who was cut while using the recalled razor."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "The Gillette Company LLC, of Boston, Mass.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Food, drug, and mass merchandise stores nationwide from January 2019 through May 2019 for between $6 and $10.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "The Gillette Company LLC, of Boston, Mass.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [
+    {
+      "UPC": "047400300712"
+    },
+    {
+      "UPC": "047400315358"
+    }
+  ],
+  "Hazards": [
+    {
+      "Name": "A problem during manufacturing resulted in the misalignment of the blades in the razors, posing a higher risk of cuts during normal use.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled Venus Simply3 razors and contact Gillette to receive a postage-paid return label to return the razors and receive a voucher for a replacement."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Replace"
+    }
+  ],
+  "_sample_tag": "has_upc"
+}

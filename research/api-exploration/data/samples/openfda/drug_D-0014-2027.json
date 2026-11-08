@@ -1,0 +1,69 @@
+{
+  "status": "Ongoing",
+  "city": "Warren",
+  "state": "NJ",
+  "country": "United States",
+  "classification": "Class II",
+  "openfda": {
+    "application_number": [
+      "ANDA211881"
+    ],
+    "brand_name": [
+      "FOSFOMYCIN TROMETHAMINE"
+    ],
+    "generic_name": [
+      "FOSFOMYCIN TROMETHAMINE"
+    ],
+    "manufacturer_name": [
+      "Cipla USA Inc."
+    ],
+    "product_ndc": [
+      "69097-579"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "FOSFOMYCIN TROMETHAMINE"
+    ],
+    "rxcui": [
+      "808917"
+    ],
+    "spl_id": [
+      "80c866f4-c984-469e-b2a5-5c23f29b9750"
+    ],
+    "spl_set_id": [
+      "d101b5d8-bffc-4ee6-b93b-4589fcb8750d"
+    ],
+    "package_ndc": [
+      "69097-579-67"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "7FXW6U30GY"
+    ]
+  },
+  "product_type": "Drugs",
+  "event_id": "99930",
+  "recalling_firm": "Cipla USA, Inc.",
+  "address_1": "10 Independence Blvd",
+  "address_2": "N/A",
+  "postal_code": "07059-2730",
+  "voluntary_mandated": "Voluntary: Firm initiated",
+  "initial_firm_notification": "Two or more of the following: Email, Fax, Letter, Press Release, Telephone, Visit",
+  "distribution_pattern": "USA Nationwide.",
+  "recall_number": "D-0014-2027",
+  "product_description": "Fosfomycin Tromethamine Granules for Oral Solution, (Equivalent to 3 Grams of Fosfomycin), 1 Single-Dose Sachet, Rx only, Manufactured by: Cipla Ltd., Kurkumbh-413802, Maharashtra, India, Manufactured for: Cipla USA, Inc., 10 Independence Boulevard, Suite 300, Warren, NJ 07059, NDC 69097-579-67.",
+  "product_quantity": "N/A",
+  "reason_for_recall": "Failed Impurities/Degradation Specifications",
+  "recall_initiation_date": "20260918",
+  "center_classification_date": "20261006",
+  "report_date": "20261014",
+  "code_info": "Lot#: 5KA0405, Exp 12/31/2026.",
+  "_endpoint": "drug"
+}

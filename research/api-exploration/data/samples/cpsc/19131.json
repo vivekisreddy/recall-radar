@@ -1,0 +1,133 @@
+{
+  "RecallID": 8570,
+  "RecallNumber": "19131",
+  "RecallDate": "2019-06-04T00:00:00",
+  "Description": "This recall involves the small Stratton pendant light fixtures. The lights are suspended and provide task lighting and general illumination for both consumer and commercial applications. The UPC number is on the light fixture packaging, and the part number is located on a yellow sticker inside of the canopy of the fixture. The recalled small light fixture is 9.2 inches wide, and was sold with a glass shade (clear or smoke color). The recall involves the following item numbers and UPCs: Item Number UPC 700TDSTNPSCB-PAR 884655362979 700TDSTNPSKB-PAR 884655362986 700TDSTNPSCB-LED27 884655362993 700TDSTNPSKB-LED27 884655363006 700TDSTNPSCB-LED30 884655363013 700TDSTNPSKB-LED30 884655363020 700TDSTNPSCY-PAR 884655363099 700TDSTNPSKY-PAR 884655363105 700TDSTNPSCY-LED27 884655363112 700TDSTNPSKY-LED27 884655363129 700TDSTNPSCY-LED30 884655363136 700TDSTNPSKY-LED30 884655363143 700TDSTNPSCB 191963077083 700TDSTNPSCY 191963077090 700TDSTNPSKB 191963077106 700TDSTNPSKY 191963077113",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Generation-Brands-Recalls-Glass-Pendant-Light-Fixtures-Due-to-Risk-of-Injury",
+  "Title": "Generation Brands Recalls Glass Pendant Light Fixtures Due to Risk of Injury",
+  "ConsumerContact": "Tech Lighting toll-free at 888-475-1136 from 9 a.m. to 5 p.m. CT Monday through Friday or online at www.techlighting.com and click on the recall button at the bottom of the home page for more information.",
+  "LastPublishDate": "2019-06-04T00:00:00",
+  "Products": [
+    {
+      "Name": "Small Stratton glass pendant light fixtures",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,200 (in addition, 30 units were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2019/69985r-eng.php"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_15.png",
+      "Caption": "Small Stratton Pendant Smoke Glass"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_14.png",
+      "Caption": "Small Stratton Pendant Clear Glass"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received one report of the glass pendant detaching from the light fixture, resulting in injury to a bystander standing directly beneath it."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Guangzhou Xiongyi Precision Metalworking Co., Ltd., of China",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Independent lighting retailers nationwide and online at build.com, Circa Lighting, Lightology, Lumens, Wayfair, and Y Lighting from January 2013 through December 2018 for between $385 and $525.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Tech Lighting LLC, a division of Generation Brands, of Skokie, Illinois",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [
+    {
+      "UPC": "884655362979"
+    },
+    {
+      "UPC": "884655362986"
+    },
+    {
+      "UPC": "884655362993"
+    },
+    {
+      "UPC": "884655363006"
+    },
+    {
+      "UPC": "884655363013"
+    },
+    {
+      "UPC": "884655363020"
+    },
+    {
+      "UPC": "884655363099"
+    },
+    {
+      "UPC": "884655363105"
+    },
+    {
+      "UPC": "884655363112"
+    },
+    {
+      "UPC": "884655363129"
+    },
+    {
+      "UPC": "884655363136"
+    },
+    {
+      "UPC": "884655363143"
+    },
+    {
+      "UPC": "191963077083"
+    },
+    {
+      "UPC": "191963077090"
+    },
+    {
+      "UPC": "191963077106"
+    },
+    {
+      "UPC": "191963077113"
+    }
+  ],
+  "Hazards": [
+    {
+      "Name": "The small glass pendant light fixtures can detach from their electrical cord, causing the fixture to fall unexpectedly, posing a risk of injury from impact.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately prevent people from going under the light fixture and contact Tech Lighting to receive a free repair kit. Consumers will need to schedule installation of the repair kit by a certified electrician, and Tech Lighting will reimburse the consumer for the service."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ],
+  "_sample_tag": "has_upc"
+}

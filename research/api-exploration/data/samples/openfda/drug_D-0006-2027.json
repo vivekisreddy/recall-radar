@@ -1,0 +1,122 @@
+{
+  "status": "Ongoing",
+  "city": "Pomona",
+  "state": "CA",
+  "country": "United States",
+  "classification": "Class II",
+  "openfda": {
+    "application_number": [
+      "M018"
+    ],
+    "brand_name": [
+      "LEADER DRY EYE RELIEF EYE DROPS",
+      "ARTIFICIAL TEARS",
+      "FOSTER AND THRIVE DRY EYE RELIEF"
+    ],
+    "generic_name": [
+      "GLYCERIN, HYPROMELLOSE, POLYETHYLENE GLYCOL 400",
+      "GLYCERIN",
+      "POLYETHYLENE GLYCOL 400"
+    ],
+    "manufacturer_name": [
+      "CARDINAL HEALTH 110, LLC. DBA LEADER",
+      "Geri-Care Pharmaceuticals, Corp",
+      "Strategic Sourcing Services LLC"
+    ],
+    "product_ndc": [
+      "70000-0502",
+      "57896-181",
+      "70677-1157"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "OPHTHALMIC"
+    ],
+    "substance_name": [
+      "GLYCERIN",
+      "HYPROMELLOSE, UNSPECIFIED",
+      "POLYETHYLENE GLYCOL 400",
+      "HYPROMELLOSES"
+    ],
+    "rxcui": [
+      "259581",
+      "2360899"
+    ],
+    "spl_id": [
+      "5944f7bf-c84b-497f-e063-6394a90aed1f",
+      "472b069b-4e80-8cb8-e063-6294a90a302b",
+      "4749275b-6982-4eaf-e063-6394a90aaee9"
+    ],
+    "spl_set_id": [
+      "2ded4bda-b3c3-4521-8701-5c8446fd148b",
+      "7cc437e3-bad9-59be-e053-2991aa0a1da3",
+      "0018ade9-5856-db6c-e063-6394a90a2ccf"
+    ],
+    "package_ndc": [
+      "70000-0502-1",
+      "70000-0502-2",
+      "57896-181-05",
+      "70677-1157-1"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0096295137064",
+      "0096295137071",
+      "0357896184056",
+      "0010939958266",
+      "867166000004",
+      "093351011566",
+      "614299056206",
+      "041220437412",
+      "072036713032",
+      "036800361003"
+    ],
+    "nui": [
+      "N0000185370",
+      "N0000175629",
+      "N0000184306",
+      "N0000185001",
+      "M0000728",
+      "M0009417"
+    ],
+    "pharm_class_epc": [
+      "Non-Standardized Chemical Allergen [EPC]"
+    ],
+    "pharm_class_pe": [
+      "Increased Histamine Release [PE]",
+      "Cell-mediated Immunity [PE]",
+      "Increased IgG Production [PE]"
+    ],
+    "pharm_class_cs": [
+      "Allergens [CS]",
+      "Glycerol [CS]"
+    ],
+    "unii": [
+      "PDC6A3C0OX",
+      "3NXW29V3WO",
+      "B697894SGQ"
+    ]
+  },
+  "product_type": "Drugs",
+  "event_id": "99880",
+  "recalling_firm": "K.C. Pharmaceuticals, Inc.",
+  "address_1": "3420 Pomona Blvd",
+  "address_2": "N/A",
+  "postal_code": "91768-3236",
+  "voluntary_mandated": "Voluntary: Firm initiated",
+  "initial_firm_notification": "E-Mail",
+  "distribution_pattern": "US Nationwide",
+  "recall_number": "D-0006-2027",
+  "product_description": "Sterile Lubricant Dry Eye Relief Eye Drops, 0.5 FL OZ (15 mL); a) LEADER, DISTRIBUTED BY CARDINAL HEALTH, DUBLIN, OHIO 43017, www.myleader.com, NDC 70000-0502-1; b) Crocodile Tears, Distributed by: Crocodile Tears, Palm Beach Gardens, FL 33410, UPC: 8 67166 00000 4; c) Discount drug mart, Discount Drug Mart Food Fair, Medina, OH 44256, UPC: 0 93351 01156 6; d) exchange select, Manufactured for your Military Exchange By: K.C Pharmaceuticals, Inc., Pomona, CA 9176, UPC: 6 14299 05620 6; e) GERI CARE, Distributed by: Gericare Pharmaceuticals Corp., 1295 Towbin Ave., Lakewood, NJ 08701, NDC 57896-181-05; f) H.E.B Dry Eye,  Eye Drops, MADE WITH PRIDE & CARE FOR H-E-B, SAN ANTONIO, TX 78204, UPC 0 41220 43741 2; g) Harris Teeter, PROUDLY DISTRIBUTED BY: HARRIS TEETER, LLC, MATTHEWS, NC 28105, UPC: 0 72036 71303 2; h) Foster & Thrive, Distributed by: McKesson Corp. Via Strategic Sourcing Servies LLC., Memphis, TN 38141, NDC 70677-1157-1; I) TopCare health, DISTRIBUTED BY TOPCO ASSOCIATES LLC, ELKGROVE VILLAGE, IL 60007, UPC 0 36800 36100 3.",
+  "product_quantity": "1,327,248 cartons",
+  "reason_for_recall": "Lack of Assurance of Sterility",
+  "recall_initiation_date": "20260911",
+  "center_classification_date": "20261005",
+  "report_date": "20261014",
+  "code_info": "Lot: a) LT25B01, Exp.: 02/28/2027; b) LT25D02, Exp.: 04/30/2027; LT25K01, Exp.: 09/30/2027; c) LT25D02, Exp.: 04/30/2027; LT25K01, Exp.: 09/30/2027; d) LT25D02, Exp.: 04/30/2027; LT25M02, Exp.: 10/31/2027; e) LT25B01, Exp.: 02/28/2027; LT25D01, Exp.: 04/30/2027; LT25D02, Exp.: 04/30/2027; LT25K01, Exp.: 09/30/2027; LT25M01, Exp.: 10/31/2027; LT25M02, Exp.: 10/31/2027; LT25N01, Exp.: 11/30/2027; LT25N02, Exp.: 11/30/2027; f) LT25B01, Exp.: 02/28/2027; g) LT25M02, Exp.: 10/31/2027; h) LT25B01, Exp.: 02/28/2027; I) LT25B01, Exp.: 02/28/2027; LT25D02, Exp.: 04/30/2027; LT25M02, Exp.: 10/31/2027.",
+  "_endpoint": "drug"
+}

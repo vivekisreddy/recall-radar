@@ -1,0 +1,16 @@
+{
+  "Manufacturer": "Chrysler (FCA US, LLC)",
+  "NHTSACampaignNumber": "25V741000",
+  "parkIt": false,
+  "parkOutSide": true,
+  "overTheAirUpdate": false,
+  "ReportReceivedDate": "30/10/2025",
+  "Component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+  "Summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2025 Jeep Wrangler 4Xe and 2022-2026 Grand Cherokee 4Xe vehicles. The high voltage battery may fail internally and lead to a vehicle fire while parked or driving.",
+  "Consequence": "A vehicle fire can increase the risk of injury.",
+  "Remedy": "Owners are advised to park outside and away from structures and not to charge their vehicles until the remedy is completed. Dealers will update the high voltage battery software, and replace the high voltage battery, as necessary, free of charge. Some owner notification letters were mailed beginning December 17, 2025. The remaining owner notification letters will be mailed at a later date.  Owners may contact Chrysler customer service at 800-853-1403. Chrysler's number for this recall is 68C. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning November 6, 2025. Vehicles that were previously recalled for the same issue under NHTSA Recalls 24V720 and 23V787 will need to have the new remedy performed.",
+  "Notes": null,
+  "ModelYear": "2021",
+  "Make": "JEEP",
+  "Model": "WRANGLER"
+}

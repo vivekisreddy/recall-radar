@@ -1,0 +1,16 @@
+{
+  "Manufacturer": "Ford Motor Company",
+  "NHTSACampaignNumber": "21V090000",
+  "parkIt": false,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "ReportReceivedDate": "18/02/2021",
+  "Component": "VISIBILITY:WINDSHIELD:CRITICAL FASTENERS",
+  "Summary": "Ford Motor Company (Ford) is recalling certain 2021 F-150 and 2020-2021 F-250, F-350, F-450, and F-550 Super Duty vehicles.  During manufacturing, the windshield may not have been properly bonded to the vehicle, allowing it to detach in a crash.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 212, \"Windshield Mounting.\"",
+  "Consequence": "In the event of a crash, if the windshield separates from the vehicle, it can increase the risk of injury.",
+  "Remedy": "Ford will notify owners, and dealers will remove and reinstall the windshield, free of charge.  The recall began April 16, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21C06.",
+  "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+  "ModelYear": "2021",
+  "Make": "FORD",
+  "Model": "F-150"
+}

@@ -1,0 +1,70 @@
+# Full stack locally:  docker compose up --build   then   make seed
+#   web  http://localhost:3000    api  http://localhost:8000/docs
+services:
+  db:
+    image: pgvector/pgvector:pg16  # Postgres 16 with pgvector; pg_trgm ships with Postgres
+    environment:
+      POSTGRES_USER: recall
+      POSTGRES_PASSWORD: recall
+      POSTGRES_DB: recall_radar
+    ports: ["5432:5432"]
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts/create-test-db.sql:/docker-entrypoint-initdb.d/create-test-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U recall -d recall_radar"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  api:
+    build: ./backend
+    env_file: [{ path: .env, required: false }]
+    environment:
+      DATABASE_URL: postgresql+psycopg://recall:recall@db:5432/recall_radar
+      REDIS_URL: redis://redis:6379/0
+    ports: ["8000:8000"]
+    volumes:
+      - ./research/api-exploration/data/samples:/samples:ro  # for `make seed`
+    depends_on:
+      db: { condition: service_healthy }
+      redis: { condition: service_healthy }
+
+  worker:
+    build: ./backend
+    command: celery -A recall_radar.workers.celery_app worker --loglevel=info
+    env_file: [{ path: .env, required: false }]
+    environment:
+      DATABASE_URL: postgresql+psycopg://recall:recall@db:5432/recall_radar
+      REDIS_URL: redis://redis:6379/0
+    depends_on:
+      api: { condition: service_started }  # api runs the migrations
+
+  beat:
+    build: ./backend
+    command: celery -A recall_radar.workers.celery_app beat --loglevel=info
+    env_file: [{ path: .env, required: false }]
+    environment:
+      REDIS_URL: redis://redis:6379/0
+    depends_on:
+      redis: { condition: service_healthy }
+
+  web:
+    build: ./web
+    environment:
+      API_URL: http://api:8000
+    ports: ["3000:3000"]
+    depends_on:
+      api: { condition: service_started }
+
+volumes:
+  pgdata:

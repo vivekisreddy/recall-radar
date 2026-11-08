@@ -1,0 +1,16 @@
+{
+  "Manufacturer": "Ford Motor Company",
+  "NHTSACampaignNumber": "21V407000",
+  "parkIt": true,
+  "parkOutSide": false,
+  "overTheAirUpdate": false,
+  "ReportReceivedDate": "29/05/2021",
+  "Component": "STEERING:GEAR BOX (OTHER THAN RACK AND PINION)",
+  "Summary": "Ford Motor Company (Ford) is recalling certain 2021 F-150 vehicles.  The steering gear may have internal damage, which could result in difficulty steering, or the inability to rotate the steering wheel while driving.",
+  "Consequence": "Loss of steering control can increase the risk of a crash.",
+  "Remedy": "Owners are advised to not drive their vehicles until the repair is complete.  Vehicles will be towed in for service, and dealers will remove and replace the steering gear, free of charge.  Owner notification letters were mailed on June 4, 2021. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S28.",
+  "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+  "ModelYear": "2021",
+  "Make": "FORD",
+  "Model": "F-150"
+}
